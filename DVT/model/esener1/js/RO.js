@@ -15,7 +15,7 @@ var subset_subsetValue
 		['size_4', 'All', 'Toate'],
 		['size_4', '1--10-to-19-employees', '10-19 angajați'],
 		['size_4', '2--20-to-49-employees', '20-49 angajați'],
-		['size_4', '3--50-to-249-employees', '50-249  angajați'],
+		['size_4', '3--50-to-249-employees', '50-249 de angajați'],
 		['size_4', '4--250-employees-or-more', '250 sau mai mulți angajați']
 	];
 var topic_
@@ -477,7 +477,7 @@ var question_meta
 		['MM173_7', 'Experţi contractaţi în probleme de sănătate şi securitate', 'Întreprinderea dvs. a utilizat informaţii referitoare la sănătate şi securitate din vreuna din organizaţiile sau instituţiile următoare?Experţi contractaţi în probleme de sănătate şi securitate'],
 		['MM173_8', 'Prestatori de asigurări', 'Întreprinderea dvs. a utilizat informaţii referitoare la sănătate şi securitate din vreuna din organizaţiile sau instituţiile următoare?Prestatori de asigurări'],
 		['MM175', 'Aţi auzit de Săptămâna Europeană pentru Securitate şi Sănătate în Muncă?', 'Aţi auzit de Săptămâna Europeană pentru Securitate şi Sănătate în Muncă?'],
-		['MM200_1', 'Substanțe periculoase (de ex. praf, substanțe chimice, biologice sau radioactive)', 'Pentru fiecare din urmÄƒtoarele subiecte, vÄƒ rog sÄƒ indicaÅ£i dacÄƒ este de o preocupare majorÄƒ, oarecum o preocupare sau nu este o preocupare deloc Ã®n Ã®ntreprinderea dvs.: SubstanÅ£e periculoase (Operator: explicaÅ£i dacÄƒ e necesar: de ex. praf, substanÅ£e chimice, biologice sau radioactive)'],
+		['MM200_1', 'Substanțe periculoase (de ex. praf, substanțe chimice, biologice sau radioactive)', 'Pentru fiecare din următoarele subiecte, vă rog să indicaţi dacă este de o preocupare majoră, oarecum o preocupare sau nu este o preocupare deloc în întreprinderea dvs.: Substanțe periculoase (de ex. praf, substanțe chimice, biologice sau radioactive)'],
 		['MM200_2', 'Accidente', 'Pentru fiecare din următoarele subiecte, vă rog să indicaţi dacă este de o preocupare majoră, oarecum o preocupare sau nu este o preocupare deloc în întreprinderea dvs.Accidente'],
 		['MM200_3', 'Zgomotul şi vibraţia', 'Pentru fiecare din următoarele subiecte, vă rog să indicaţi dacă este de o preocupare majoră, oarecum o preocupare sau nu este o preocupare deloc în întreprinderea dvs.Zgomotul şi vibraţia'],
 		['MM200_4', 'Afecţiuni musculo-scheletice precum dureri de spate, ceafă, braţe sau picioare', 'Pentru fiecare din următoarele subiecte, vă rog să indicaţi dacă este de o preocupare majoră, oarecum o preocupare sau nu este o preocupare deloc în întreprinderea dvs.Afecţiuni musculo-scheletice precum dureri de spate, ceafă, braţe sau picioare'],

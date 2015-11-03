@@ -245,7 +245,7 @@ SubsetValue	sec3	3. Public Services	3. Julkiset palvelut
 SubsetValue	size_4	All	Kaikki
 SubsetValue	size_4	1. 10 to 19 employees	1. 10 – 19 työntekijää
 SubsetValue	size_4	2. 20 to 49 employees	2. 20 – 49 työntekijää
-SubsetValue	size_4	3. 50 to 249 employees	3. 50 – 249 työntekijää
+SubsetValue	size_4	3. 50 to 249 employees	3. 50–249 työntekijää
 SubsetValue	size_4	4. 250 employees or more	4. 250 työntekijää tai enemmän
 _DVS	word	above	#N/A
 _DVS	word	alertnotdis	"Kuvaa ei voida näyttää, koska valitut tiedot eivät ole edustavia."

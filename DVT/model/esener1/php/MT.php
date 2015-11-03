@@ -74,23 +74,23 @@ $labels_
 $tooltips_
 	 = array(
 	
-		array('crossCountry', '* Il-medja għall-Unjoni Ewropea tinkludi dejta għall-Kroazja, għalkemm ma kinitx Stat Membru tal-UE fiż-żmien tal-istħarriġ għall-ESENER-1 fl-2009 (Il-Kroazja ssieħbet fl-UE fl-1 ta Lulju 2013). Id-dejta tagħha ġiet inkluża għall-fini ta konsistenza mal-preżentazzjoni tad-dejta tal-ESENER-2. Għandu jiġi nnotat li l-inklużjoni tagħha għandu effett żgħir ħafna fuq iċ-ċifri tal-UE, meta mqabbla ma dawk li jidhru fil-pubblikazzjonijiet tal-ESENER-1 u li jikkorrispondu mal-UE-27.'),
+		array('crossCountry', '* Il-medja għall-Unjoni Ewropea tinkludi dejta għall-Kroazja, għalkemm ma kinitx Stat Membru tal-UE fiż-żmien tal-istħarriġ għall-ESENER-1 fl-2009 (Il-Kroazja ssieħbet fl-UE fl-1 ta’ Lulju 2013). Id-dejta tagħha ġiet inkluża għall-fini ta’ konsistenza mal-preżentazzjoni tad-dejta tal-ESENER-2. Għandu jiġi nnotat li l-inklużjoni tagħha għandu effett żgħir ħafna fuq iċ-ċifri tal-UE, meta mqabbla ma’ dawk li jidhru fil-pubblikazzjonijiet tal-ESENER-1 u li jikkorrispondu mal-UE-27.'),
 		array('crossCountryMouse', 'Il-viżwalizzazzjoni Nazzjonali tal-paraguni tippreżenta ħarsa ġenerali komparattiva lejn il-valuri tat-tweġibiet kollha bejn żewġ pajjiżi magħżula.'),
-		array('euBars', '* Il-medja għall-Unjoni Ewropea tinkludi dejta għall-Kroazja, għalkemm ma kinitx Stat Membru tal-UE fiż-żmien tal-istħarriġ għall-ESENER-1 fl-2009 (Il-Kroazja ssieħbet fl-UE fl-1 ta Lulju 2013). Id-dejta tagħha ġiet inkluża għall-fini ta konsistenza mal-preżentazzjoni tad-dejta tal-ESENER-2. Għandu jiġi nnotat li l-inklużjoni tagħha għandu effett żgħir ħafna fuq iċ-ċifri tal-UE, meta mqabbla ma dawk li jidhru fil-pubblikazzjonijiet tal-ESENER-1 u li jikkorrispondu mal-UE-27.'),
+		array('euBars', '* Il-medja għall-Unjoni Ewropea tinkludi dejta għall-Kroazja, għalkemm ma kinitx Stat Membru tal-UE fiż-żmien tal-istħarriġ għall-ESENER-1 fl-2009 (Il-Kroazja ssieħbet fl-UE fl-1 ta’ Lulju 2013). Id-dejta tagħha ġiet inkluża għall-fini ta’ konsistenza mal-preżentazzjoni tad-dejta tal-ESENER-2. Għandu jiġi nnotat li l-inklużjoni tagħha għandu effett żgħir ħafna fuq iċ-ċifri tal-UE, meta mqabbla ma’ dawk li jidhru fil-pubblikazzjonijiet tal-ESENER-1 u li jikkorrispondu mal-UE-27.'),
 		array('euBarsMouse', 'Il-viżwalizzazzjoni tal-bar chart Ewropea turi l-valuri tat-tweġibiet kollha għal kull pajjiż f’bar chart b’saffi vertikali. Il-medja tal-Unjoni Ewropea qed tiġi pprovduta wkoll għal raġunijiet komparattivi fuq in-naħa tax-xellug tal-graff.'),
-		array('heatMap', '* Il-medja għall-Unjoni Ewropea tinkludi dejta għall-Kroazja, għalkemm ma kinitx Stat Membru tal-UE fiż-żmien tal-istħarriġ għall-ESENER-1 fl-2009 (Il-Kroazja ssieħbet fl-UE fl-1 ta Lulju 2013). Id-dejta tagħha ġiet inkluża għall-fini ta konsistenza mal-preżentazzjoni tad-dejta tal-ESENER-2. Għandu jiġi nnotat li l-inklużjoni tagħha għandu effett żgħir ħafna fuq iċ-ċifri tal-UE, meta mqabbla ma dawk li jidhru fil-pubblikazzjonijiet tal-ESENER-1 u li jikkorrispondu mal-UE-27.'),
+		array('heatMap', '* Il-medja għall-Unjoni Ewropea tinkludi dejta għall-Kroazja, għalkemm ma kinitx Stat Membru tal-UE fiż-żmien tal-istħarriġ għall-ESENER-1 fl-2009 (Il-Kroazja ssieħbet fl-UE fl-1 ta’ Lulju 2013). Id-dejta tagħha ġiet inkluża għall-fini ta’ konsistenza mal-preżentazzjoni tad-dejta tal-ESENER-2. Għandu jiġi nnotat li l-inklużjoni tagħha għandu effett żgħir ħafna fuq iċ-ċifri tal-UE, meta mqabbla ma’ dawk li jidhru fil-pubblikazzjonijiet tal-ESENER-1 u li jikkorrispondu mal-UE-27.'),
 		array('heatMapMouse', 'Il-viżwalizzazzjoni tal-mappa Ewropea turi f’mappa l-valuri tat-tweġibiet għal kull pajjiż.'),
-		array('inCountry', '* Il-medja għall-Unjoni Ewropea tinkludi dejta għall-Kroazja, għalkemm ma kinitx Stat Membru tal-UE fiż-żmien tal-istħarriġ għall-ESENER-1 fl-2009 (Il-Kroazja ssieħbet fl-UE fl-1 ta Lulju 2013). Id-dejta tagħha ġiet inkluża għall-fini ta konsistenza mal-preżentazzjoni tad-dejta tal-ESENER-2. Għandu jiġi nnotat li l-inklużjoni tagħha għandu effett żgħir ħafna fuq iċ-ċifri tal-UE, meta mqabbla ma dawk li jidhru fil-pubblikazzjonijiet tal-ESENER-1 u li jikkorrispondu mal-UE-27.'),
+		array('inCountry', '* Il-medja għall-Unjoni Ewropea tinkludi dejta għall-Kroazja, għalkemm ma kinitx Stat Membru tal-UE fiż-żmien tal-istħarriġ għall-ESENER-1 fl-2009 (Il-Kroazja ssieħbet fl-UE fl-1 ta’ Lulju 2013). Id-dejta tagħha ġiet inkluża għall-fini ta’ konsistenza mal-preżentazzjoni tad-dejta tal-ESENER-2. Għandu jiġi nnotat li l-inklużjoni tagħha għandu effett żgħir ħafna fuq iċ-ċifri tal-UE, meta mqabbla ma’ dawk li jidhru fil-pubblikazzjonijiet tal-ESENER-1 u li jikkorrispondu mal-UE-27.'),
 		array('inCountryMouse', 'Il-viżwalizzazzjoni tal-bar chart Nazzjonali turi l-valuri tat-tweġibiet kollha għal kull pajjiż u subsett magħżul. Il-medja fost is-subsettijiet kollha għal kull tweġiba qed tingħata wkoll fl-aħħar.'),
 		array('crossCountryNote', '')
 	);
 $plots_
 	 = array(
 	
-		array('heatMap', 'Mapa europeo'),
-		array('euBars', 'GrÃ¡fico de barras de la UE'),
-		array('inCountry', 'GrÃ¡fico de barras nacional'),
-		array('crossCountry', 'Comparaciones nacionales')
+		array('heatMap', 'Mappa tal-Ewropa'),
+		array('euBars', 'Bar chart tal-UE'),
+		array('inCountry', 'Bar chart nazzjonali'),
+		array('crossCountry', 'Paraguni nazzjonali')
 	);
 $dataViews_
 	 = array(
