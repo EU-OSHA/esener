@@ -251,7 +251,7 @@ _DVS	word	above	#N/A
 _DVS	word	alertnotdis	O gráfico não pode ser exibido pois os dados selecionados não são representativos.
 _DVS	word	all	Todos
 _DVS	word	below	abaixo de
-_DVS	word	euonly	  * Somente UE
+_DVS	word	euonly	 *Somente UE
 _DVS	word	euonlytt	A função filtra os dados dos Estados-Membros da UE
 _DVS	word	languages	Línguas disponíveis
 _DVS	word	mean	acima de

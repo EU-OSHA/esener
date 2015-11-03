@@ -251,7 +251,7 @@ _DVS	word	above	#N/A
 _DVS	word	alertnotdis	"Grafika nie może zostać wyświetlona, ponieważ wybrane dane nie są reprezentatywne."
 _DVS	word	all	Wszystkie
 _DVS	word	below	poniżej
-_DVS	word	euonly	  * Wyłącznie UE
+_DVS	word	euonly	 * Wyłącznie UE
 _DVS	word	euonlytt	Funkcja filtruje dane państw członkowskich UE
 _DVS	word	languages	Dostępne języki
 _DVS	word	mean	powyżej

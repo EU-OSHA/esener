@@ -104,7 +104,7 @@ $words_
 		array('alertnotdis', 'Grafika nie może zostać wyświetlona, ponieważ wybrane dane nie są reprezentatywne.'),
 		array('all', 'Wszystkie'),
 		array('below', 'poniżej'),
-		array('euonly', '  * Wyłącznie UE'),
+		array('euonly', ' * Wyłącznie UE'),
 		array('euonlytt', 'Funkcja filtruje dane państw członkowskich UE'),
 		array('languages', 'Dostępne języki'),
 		array('mean', 'powyżej'),
