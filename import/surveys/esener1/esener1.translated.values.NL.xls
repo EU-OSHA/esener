@@ -41,27 +41,27 @@ Answer	MM161	3. DK/ NA	3. Geen antwoord
 Answer	MM170	1. Yes	1. Ja
 Answer	MM170	2. No	2. Nee
 Answer	MM170	3. DK/ NA	3. Geen antwoord
-Answer	MM171_1	1. Major	1. Belangrijk
+Answer	MM171_1	1. Major	1. Belangrijke reden
 Answer	MM171_1	2. Minor	2. Minder belangrijk
 Answer	MM171_1	3. No	3. Geen reden
 Answer	MM171_1	4. DK/ NA	4. Geen antwoord
-Answer	MM171_2	1. Major	1. Belangrijk
+Answer	MM171_2	1. Major	1. Belangrijke reden
 Answer	MM171_2	2. Minor	2. Minder belangrijk
 Answer	MM171_2	3. No	3. Geen reden
 Answer	MM171_2	4. DK/ NA	4. Geen antwoord
-Answer	MM171_3	1. Major	1. Belangrijk
+Answer	MM171_3	1. Major	1. Belangrijke reden
 Answer	MM171_3	2. Minor	2. Minder belangrijk
 Answer	MM171_3	3. No	3. Geen reden
 Answer	MM171_3	4. DK/ NA	4. Geen antwoord
-Answer	MM171_4	1. Major	1. Belangrijk
+Answer	MM171_4	1. Major	1. Belangrijke reden
 Answer	MM171_4	2. Minor	2. Minder belangrijk
 Answer	MM171_4	3. No	3. Geen reden
 Answer	MM171_4	4. DK/ NA	4. Geen antwoord
-Answer	MM171_5	1. Major	1. Belangrijk
+Answer	MM171_5	1. Major	1. Belangrijke reden
 Answer	MM171_5	2. Minor	2. Minder belangrijk
 Answer	MM171_5	3. No	3. Geen reden
 Answer	MM171_5	4. DK/ NA	4. Geen antwoord
-Answer	MM171_6	1. Major	1. Belangrijk
+Answer	MM171_6	1. Major	1. Belangrijke reden
 Answer	MM171_6	2. Minor	2. Minder belangrijk
 Answer	MM171_6	3. No	3. Geen reden
 Answer	MM171_6	4. DK/ NA	4. Geen antwoord
@@ -251,7 +251,7 @@ _DVS	word	above	#N/A
 _DVS	word	alertnotdis	"De grafiek kan niet worden weergegeven, omdat het geselecteerde gegevensitem niet representatief is"
 _DVS	word	all	Alle
 _DVS	word	below	beneden
-_DVS	word	euonly	 * alleen de EU
+_DVS	word	euonly	  * Alleen de EU
 _DVS	word	euonlytt	De functie filtert de gegevens van de lidstaten van de EU
 _DVS	word	languages	Beschikbare talen
 _DVS	word	mean	boven

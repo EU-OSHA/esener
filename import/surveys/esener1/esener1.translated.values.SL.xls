@@ -41,53 +41,53 @@ Answer	MM161	3. DK/ NA	3. Brez odgovora
 Answer	MM170	1. Yes	1. Da
 Answer	MM170	2. No	2. Ne
 Answer	MM170	3. DK/ NA	3. Brez odgovora
-Answer	MM171_1	1. Major	1. Zelo
-Answer	MM171_1	2. Minor	2. Manj
-Answer	MM171_1	3. No	3. Ni
+Answer	MM171_1	1. Major	1. Zelo pomemben razlog
+Answer	MM171_1	2. Minor	2. Manj pomemben razlog
+Answer	MM171_1	3. No	3. Sploh ni razlog.
 Answer	MM171_1	4. DK/ NA	4. Brez odgovora
-Answer	MM171_2	1. Major	1. Zelo
-Answer	MM171_2	2. Minor	2. Manj
-Answer	MM171_2	3. No	3. Ni
+Answer	MM171_2	1. Major	1. Zelo pomemben razlog
+Answer	MM171_2	2. Minor	2. Manj pomemben razlog
+Answer	MM171_2	3. No	3. Sploh ni razlog.
 Answer	MM171_2	4. DK/ NA	4. Brez odgovora
-Answer	MM171_3	1. Major	1. Zelo
-Answer	MM171_3	2. Minor	2. Manj
-Answer	MM171_3	3. No	3. Ni
+Answer	MM171_3	1. Major	1. Zelo pomemben razlog
+Answer	MM171_3	2. Minor	2. Manj pomemben razlog
+Answer	MM171_3	3. No	3. Sploh ni razlog.
 Answer	MM171_3	4. DK/ NA	4. Brez odgovora
-Answer	MM171_4	1. Major	1. Zelo
-Answer	MM171_4	2. Minor	2. Manj
-Answer	MM171_4	3. No	3. Ni
+Answer	MM171_4	1. Major	1. Zelo pomemben razlog
+Answer	MM171_4	2. Minor	2. Manj pomemben razlog
+Answer	MM171_4	3. No	3. Sploh ni razlog.
 Answer	MM171_4	4. DK/ NA	4. Brez odgovora
-Answer	MM171_5	1. Major	1. Zelo
-Answer	MM171_5	2. Minor	2. Manj
-Answer	MM171_5	3. No	3. Ni
+Answer	MM171_5	1. Major	1. Zelo pomemben razlog
+Answer	MM171_5	2. Minor	2. Manj pomemben razlog
+Answer	MM171_5	3. No	3. Sploh ni razlog.
 Answer	MM171_5	4. DK/ NA	4. Brez odgovora
-Answer	MM171_6	1. Major	1. Zelo
-Answer	MM171_6	2. Minor	2. Manj
-Answer	MM171_6	3. No	3. Ni
+Answer	MM171_6	1. Major	1. Zelo pomemben razlog
+Answer	MM171_6	2. Minor	2. Manj pomemben razlog
+Answer	MM171_6	3. No	3. Sploh ni razlog.
 Answer	MM171_6	4. DK/ NA	4. Brez odgovora
-Answer	MM172_1	1. Major	1. Velika
-Answer	MM172_1	2. Minor	2. Manjša 
-Answer	MM172_1	3. No	3. Ni
+Answer	MM172_1	1. Major	1. Večja težava
+Answer	MM172_1	2. Minor	2. Manjša težava
+Answer	MM172_1	3. No	3. Sploh ni težava
 Answer	MM172_1	4. DK/ NA	4. Brez odgovora
-Answer	MM172_2	1. Major	1. Velika
-Answer	MM172_2	2. Minor	2. Manjša 
-Answer	MM172_2	3. No	3. Ni
+Answer	MM172_2	1. Major	1. Večja težava
+Answer	MM172_2	2. Minor	2. Manjša težava
+Answer	MM172_2	3. No	3. Sploh ni težava
 Answer	MM172_2	4. DK/ NA	4. Brez odgovora
-Answer	MM172_3	1. Major	1. Velika
-Answer	MM172_3	2. Minor	2. Manjša 
-Answer	MM172_3	3. No	3. Ni
+Answer	MM172_3	1. Major	1. Večja težava
+Answer	MM172_3	2. Minor	2. Manjša težava
+Answer	MM172_3	3. No	3. Sploh ni težava
 Answer	MM172_3	4. DK/ NA	4. Brez odgovora
-Answer	MM172_4	1. Major	1. Velika
-Answer	MM172_4	2. Minor	2. Manjša 
-Answer	MM172_4	3. No	3. Ni
+Answer	MM172_4	1. Major	1. Večja težava
+Answer	MM172_4	2. Minor	2. Manjša težava
+Answer	MM172_4	3. No	3. Sploh ni težava
 Answer	MM172_4	4. DK/ NA	4. Brez odgovora
-Answer	MM172_5	1. Major	1. Velika
-Answer	MM172_5	2. Minor	2. Manjša 
-Answer	MM172_5	3. No	3. Ni
+Answer	MM172_5	1. Major	1. Večja težava
+Answer	MM172_5	2. Minor	2. Manjša težava
+Answer	MM172_5	3. No	3. Sploh ni težava
 Answer	MM172_5	4. DK/ NA	4. Brez odgovora
-Answer	MM172_6	1. Major	1. Velika
-Answer	MM172_6	2. Minor	2. Manjša 
-Answer	MM172_6	3. No	3. Ni
+Answer	MM172_6	1. Major	1. Večja težava
+Answer	MM172_6	2. Minor	2. Manjša težava
+Answer	MM172_6	3. No	3. Sploh ni težava
 Answer	MM172_6	4. DK/ NA	4. Brez odgovora
 Answer	MM173_1	1. Yes	1. Da
 Answer	MM173_1	2. No	2. Ne
@@ -241,10 +241,10 @@ Subset	size_4	size_4	Velikost poslovne enote
 SubsetValue	sec3	All	Vse
 SubsetValue	sec3	1. Producing Industries	1. Proizvodni sektor
 SubsetValue	sec3	2. Private Services	2. Zasebne storitve
-SubsetValue	sec3	3. Public Services	3. Zasebne storitve
+SubsetValue	sec3	3. Public Services	3. Javne storitve
 SubsetValue	size_4	All	Vse
-SubsetValue	size_4	1. 10 to 19 employees	1. 10–19 zaposlenih
-SubsetValue	size_4	2. 20 to 49 employees	2. 20–49 zaposlenih
+SubsetValue	size_4	1. 10 to 19 employees	1. 10 do 19 zaposlenih
+SubsetValue	size_4	2. 20 to 49 employees	2. 20 do 49 zaposlenih
 SubsetValue	size_4	3. 50 to 249 employees	3. 50–249 zaposlenih
 SubsetValue	size_4	4. 250 employees or more	4. 250 ali več zaposlenih
 _DVS	word	above	#N/A
@@ -335,8 +335,8 @@ _Selector	country	XK	Kosovo v skladu z RVSZN 1244/99
 _Selector	country	EUCC	Države kandidatke za pristop k EU
 _Selector	country	EuropeanUnion	Evropska unija *
 _Selector	exportType	csv	Pokaži podatkovno tabelo
-_Selector	plot	crossCountry	4. Nacionalne primerjave
-_Selector	plot	euBars	2. Palični grafikon EU
-_Selector	plot	heatMap	1. Evropski zemljevid
-_Selector	plot	inCountry	3. Nacionalni palični grafikon
+_Selector	plot	crossCountry	4. Comparaciones nacionales
+_Selector	plot	euBars	2. GrÃ¡fico de barras de la UE
+_Selector	plot	heatMap	1. Mapa europeo
+_Selector	plot	inCountry	3. GrÃ¡fico de barras nacional
 _DVT	Link	Questionnaire	VPRAŠALNIK

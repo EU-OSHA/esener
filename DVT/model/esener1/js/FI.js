@@ -15,7 +15,7 @@ var subset_subsetValue
 		['size_4', 'All', 'Kaikki'],
 		['size_4', '1--10-to-19-employees', '10 – 19 työntekijää'],
 		['size_4', '2--20-to-49-employees', '20 – 49 työntekijää'],
-		['size_4', '3--50-to-249-employees', '50–249 työntekijää'],
+		['size_4', '3--50-to-249-employees', '50 – 249 työntekijää'],
 		['size_4', '4--250-employees-or-more', '250 työntekijää tai enemmän']
 	];
 var topic_
@@ -477,7 +477,7 @@ var question_meta
 		['MM173_7', 'Terveys- ja turvallisuuspalveluiden asiantuntijat, joiden kanssa on tehty sopimus', 'Onko toimipaikkanne käyttänyt terveys- tai turvallisuusasioita koskevaa tietoa, jonka olette saaneet joltakin seuraavista elimistä tai instituutioista?Terveys- ja turvallisuuspalveluiden asiantuntijat, joiden kanssa on tehty sopimus'],
 		['MM173_8', 'Vakuutusyhtiöt', 'Onko toimipaikkanne käyttänyt terveys- tai turvallisuusasioita koskevaa tietoa, jonka olette saaneet joltakin seuraavista elimistä tai instituutioista?Vakuutusyhtiöt'],
 		['MM175', 'Oletteko tietoinen Euroopan työterveys- ja työturvallisuusviikosta?', 'Oletteko tietoinen Euroopan työterveys- ja työturvallisuusviikosta?'],
-		['MM200_1', 'Vaaralliset aineet (esim. pöly, kemialliset, biologiset tai radioaktiiviset aineet)', 'Kertoisitteko minulle kunkin väittämän kohdalla, onko se suuri huolenaihe, jonkinasteinen huolenaihe vai ei lainkaan huolenaihe toimipaikassanne?Vaaralliset aineet (esim. pöly, kemialliset, biologiset tai radioaktiiviset aineet)'],
+		['MM200_1', 'Vaaralliset aineet (esim. pöly, kemialliset, biologiset tai radioaktiiviset aineet)', 'Kertoisitteko minulle kunkin väittämän kohdalla, onko se suuri huolenaihe, jonkinasteinen huolenaihe vai ei lainkaan huolenaihe toimipaikassanne?Vaaralliset aineet (Haast. selitä: esim. pöly, kemialliset, biologiset tai radioaktiiviset aineet)'],
 		['MM200_2', 'Tapaturmat', 'Kertoisitteko minulle kunkin väittämän kohdalla, onko se suuri huolenaihe, jonkinasteinen huolenaihe vai ei lainkaan huolenaihe toimipaikassanne?Tapaturmat'],
 		['MM200_3', 'Melu ja tärinä', 'Kertoisitteko minulle kunkin väittämän kohdalla, onko se suuri huolenaihe, jonkinasteinen huolenaihe vai ei lainkaan huolenaihe toimipaikassanne?Melu ja tärinä'],
 		['MM200_4', 'Tuki- ja liikuntaelinvammat, kuten särky selässä, niskassa, käsivarsissa tai jaloissa', 'Kertoisitteko minulle kunkin väittämän kohdalla, onko se suuri huolenaihe, jonkinasteinen huolenaihe vai ei lainkaan huolenaihe toimipaikassanne?Tuki- ja liikuntaelinvammat, kuten särky selässä, niskassa, käsivarsissa tai jaloissa'],

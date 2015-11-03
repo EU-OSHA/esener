@@ -104,7 +104,7 @@ $words_
 		array('alertnotdis', 'De grafiek kan niet worden weergegeven, omdat het geselecteerde gegevensitem niet representatief is'),
 		array('all', 'Alle'),
 		array('below', 'beneden'),
-		array('euonly', ' * alleen de EU'),
+		array('euonly', '  * Alleen de EU'),
 		array('euonlytt', 'De functie filtert de gegevens van de lidstaten van de EU'),
 		array('languages', 'Beschikbare talen'),
 		array('mean', 'boven'),

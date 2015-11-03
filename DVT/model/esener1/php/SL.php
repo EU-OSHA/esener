@@ -87,10 +87,10 @@ $tooltips_
 $plots_
 	 = array(
 	
-		array('heatMap', 'Evropski zemljevid'),
-		array('euBars', 'Palični grafikon EU'),
-		array('inCountry', 'Nacionalni palični grafikon'),
-		array('crossCountry', 'Nacionalne primerjave')
+		array('heatMap', 'Mapa europeo'),
+		array('euBars', 'GrÃ¡fico de barras de la UE'),
+		array('inCountry', 'GrÃ¡fico de barras nacional'),
+		array('crossCountry', 'Comparaciones nacionales')
 	);
 $dataViews_
 	 = array(
