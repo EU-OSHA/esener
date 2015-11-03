@@ -104,7 +104,7 @@ $words_
 		array('alertnotdis', 'O gráfico não pode ser exibido pois os dados selecionados não são representativos.'),
 		array('all', 'Todos'),
 		array('below', 'abaixo de'),
-		array('euonly', ' *Somente UE'),
+		array('euonly', '  * Somente UE'),
 		array('euonlytt', 'A função filtra os dados dos Estados-Membros da UE'),
 		array('languages', 'Línguas disponíveis'),
 		array('mean', 'acima de'),

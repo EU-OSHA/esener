@@ -245,7 +245,7 @@ SubsetValue	sec3	3. Public Services	3. Servicii publice
 SubsetValue	size_4	All	Toate
 SubsetValue	size_4	1. 10 to 19 employees	1. 10-19 angajați
 SubsetValue	size_4	2. 20 to 49 employees	2. 20-49 angajați
-SubsetValue	size_4	3. 50 to 249 employees	3. 50-249 de angajați
+SubsetValue	size_4	3. 50 to 249 employees	3. 50-249  angajați
 SubsetValue	size_4	4. 250 employees or more	4. 250 sau mai mulți angajați
 _DVS	word	above	 
 _DVS	word	alertnotdis	"Graficul nu poate fi afișat, deoarece datele selectate nu sunt reprezentative."
