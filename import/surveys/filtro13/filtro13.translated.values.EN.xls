@@ -1,0 +1,175 @@
+EntryType	Column	Value	TranslatedValue
+Answer	Q200_1	1. Yes	1. Yes
+Answer	Q200_1	2. No	2. No
+Answer	Q200_2	1. Yes	1. Yes
+Answer	Q200_2	2. No	2. No
+Answer	Q200_3	1. Yes	1. Yes
+Answer	Q200_3	2. No	2. No
+Answer	Q200_4	1. Yes	1. Yes
+Answer	Q200_4	2. No	2. No
+Answer	Q200_5	1. Yes	1. Yes
+Answer	Q200_5	2. No	2. No
+Answer	Q200_6	1. Yes	1. Yes
+Answer	Q200_6	2. No	2. No
+Answer	Q200_7	1. Yes	1. Yes
+Answer	Q200_7	2. No	2. No
+Answer	Q200_8	1. Yes	1. Yes
+Answer	Q200_8	2. No	2. No
+Answer	Q200_9	1. Yes	1. Yes
+Answer	Q200_9	2. No	2. No
+Answer	Q201_1	1. Yes	1. Yes
+Answer	Q201_1	2. No	2. No
+Answer	Q201_2	1. Yes	1. Yes
+Answer	Q201_2	2. No	2. No
+Answer	Q201_3	1. Yes	1. Yes
+Answer	Q201_3	2. No	2. No
+Answer	Q201_4	1. Yes	1. Yes
+Answer	Q201_4	2. No	2. No
+Answer	Q201_5	1. Yes	1. Yes
+Answer	Q201_5	2. No	2. No
+Answer	Q201_6	1. Yes	1. Yes
+Answer	Q201_6	2. No	2. No
+Answer	Q201_7	1. Yes	1. Yes
+Answer	Q201_7	2. No	2. No
+Answer	Q250	1. Yes	1. Yes
+Answer	Q250	2. No	2. No
+Answer	Q251	1. Conducted mainly by internal staff	1. Conducted mainly by internal staff
+Answer	Q251	2. Contracted mainly to external providers	2. Contracted mainly to external providers
+Answer	Q251	3. Both about equally	3. Both about equally
+Answer	Q264_1	1. Major reason	1. Major reason
+Answer	Q264_1	2. Minor reason	2. Minor reason
+Answer	Q264_1	3. Not a reason	3. Not a reason
+Answer	Q264_2	1. Major reason	1. Major reason
+Answer	Q264_2	2. Minor reason	2. Minor reason
+Answer	Q264_2	3. Not a reason	3. Not a reason
+Answer	Q264_4	1. Major reason	1. Major reason
+Answer	Q264_4	2. Minor reason	2. Minor reason
+Answer	Q264_4	3. Not a reason	3. Not a reason
+Answer	Q264_5	1. Major reason	1. Major reason
+Answer	Q264_5	2. Minor reason	2. Minor reason
+Answer	Q264_5	3. Not a reason	3. Not a reason
+Answer	Q264_6	1. Major reason	1. Major reason
+Answer	Q264_6	2. Minor reason	2. Minor reason
+Answer	Q264_6	3. Not a reason	3. Not a reason
+Answer	Q307	1. Yes	1. Yes
+Answer	Q307	2. No	2. No
+Subset	Sectorgrp	Sectorgrp	Activity sector
+Subset	Size	Size	Establishment size
+SubsetValue	Sectorgrp	All	All
+SubsetValue	Sectorgrp	1. Agriculture	"1. Agriculture, forestry and fishing"
+SubsetValue	Sectorgrp	2. Construction	"2. Construction, waste management, water and electricity supply"
+SubsetValue	Sectorgrp	3. Manufacturing	3. Manufacturing
+SubsetValue	Sectorgrp	4. Trade	"4. Trade, transport, food/accommodation and recreation activities"
+SubsetValue	Sectorgrp	5. IT	"5. IT, Finance, Real estate and other technical scientific or personal service activities"
+SubsetValue	Sectorgrp	6. Public administration	6. Public administration
+SubsetValue	Sectorgrp	7. Education	"7. Education, human health and social work activities"
+SubsetValue	Size	All	All
+SubsetValue	Size	1. 5 a 9	1. 5 to 9
+SubsetValue	Size	2. 10 a 49	2. 10 to 49
+SubsetValue	Size	3. 50 a 249	3. 50 to 249
+SubsetValue	Size	4. 250+	4. 250+
+_DVS	crossCountry	mean	"In the figure, we see a comparison between %1 and %2 for the people with '%3 : %4' when asked '%5'. %1 with %6 mean value is %7 %2 with %8 mean value."
+_DVS	crossCountry	percentage	"In the figure, we see a comparison between %1 and %2 for the people with '%3 : %4' when asked '%5'.  [For the '%1' answer, %2's score is %3 %4 score.]"
+_DVS	euBars	mean	"In the figure, we see the mean value per country for the people with '%1', '%2' when asked '%3'. At the left hand side of the figure, the European Union Average is provided. The countries with the highest score are %4 and the ones with the lowest are %5."
+_DVS	euBars	percentage	"In the figure, we see the percentages of the people per answers for every Country with '%1', '%2' when asked  '%3'.  At the left  hand side of the figure, the European Union Average per answer is provided. [For the '%1' answer, %2 group has the highest score and %3 the lowest.]"
+_DVS	euCompass	mean	"The countries survey respondents of '%1 - %2' when asked '%3' are ordered and categorized based on their survey responses' rate in a circle in the above figure. In the high group, indicated with green, %4 countries are listed. In the medium group, indicated with blue, %5 countries are listed. In the low group, indicated with red, %6 countries are listed."
+_DVS	euCompass	percentage	"The countries where survey respondents answered %1 for '%2 - %3' when asked '%4' are ordered and categorized based on their response rate in a circle in the above figure. In the high group, indicated with green, %5 countries are listed. In the medium group, indicated with blue, %6 countries are listed. In the low group, indicated with red, %7 countries are listed."
+_DVS	euMatrix	mean	"In the figure we see all subset, subset value, country combination scores for the selected question."
+_DVS	euMatrix	percentage	"In the figure we see all subset, subset value, country, answers combination scores for the selected question."
+_DVS	heatMap	mean	"In the figure, we see the mean value of the people per country with '%1', '%2' when asked  '%3'. The countries with the highest score are %4 and the ones with the lowest are %5."
+_DVS	heatMap	percentage	"In the figure, we see the percentages of the people per country that answered '%1' for '%2', '%3' when asked '%4'.  The countries with the highest score are %5 and the ones with the lowest are %6."
+_DVS	inCountry	mean	"In the figure, we see the mean value for %1 by '%2' when asked '%3'. Ordered from high to low, mean value, the groups are : [For the '%1' group the mean value is %2.]"
+_DVS	inCountry	percentage	"In the figure, we see the percentages of the answers of %1 by '%2' when asked '%3'. [For the '%1' answer the '%2' group has the highest value.]"
+_DVS	word	above	higher than the
+_DVS	word	all	All
+_DVS	word	below	lower than the
+_DVS	word	languages	Available languages
+_DVS	word	mean	Mean
+_DVS	word	ok	Ok
+_DVS	word	percentage	Percentage
+_DVS	word	selectContent	Select content
+_DVS	word	toCopy	Ctrl+C to copy
+_DVS	wordMap	mean	"In the figure, we see the mean value of the people per country with '%1', '%2' when asked '%3'. The countries with the highest score are %4 and the ones with the lowest are %5."
+_DVS	wordMap	percentage	"In the figure, we see the percentages of the people per country that answered '%1' for '%2', '%3' when asked '%4'.  The countries with the highest score are %5 and the ones with the lowest are %6."
+_DVT	Label	answer	Answer
+_DVT	Label	country	Country
+_DVT	Label	countryB	Compare with
+_DVT	Label	plot	Visualisation
+_DVT	Label	question	Question
+_DVT	Label	subset	By
+_DVT	Label	subsetValue	
+_DVT	Label	topic	Topic
+_DVT	Link	citeExport	Page citation
+_DVT	Link	csvExport	Data (XLS)
+_DVT	Link	epsExport	EPS (High resolution)
+_DVT	Link	htmlExport	Embeddable HTML
+_DVT	Link	nextQuest	Next Question
+_DVT	Link	pdfExport	PDF (High resolution)
+_DVT	Link	pngExport	Figure (PNG)
+_DVT	Link	prevQuest	Previous Question
+_DVT	Link	svgExport	SVG (High resolution)
+_DVT	Link	toolUrlExport	Page URL
+_DVT	Link	urlExport	Page bookmark
+_DVT	Title	exportOptions	Export visualization
+_DVT	Title	plotParameters	Select a question
+_DVT	Tooltip	crossCountry	The National comparisons visualisation presents a comparative overview for the values of all answers between two selected countries.
+_DVT	Tooltip	dataTable	The function presents the data of the selected visualisation.
+_DVT	Tooltip	euBars	The European bar chart visualisation illustrates the values of all answers per country in a vertical stucked bar chart. The European Union average is also provided for comparative reasons in the left  hand side of the graph.
+_DVT	Tooltip	euCompass	"The Country groups (radial) visualisation, visualisation shows the countries divided into 3 groups (high, medium and low). Percentages are ordered and separated based on the distances between the values among the result set. Choose between a linear and a circular presentation."
+_DVT	Tooltip	euMatrix	"For each question, the Data matrix visualisation illustrates the statistics for all subsets, subset values, answers and countries. Exporting the data for this visualisation provides the full data set for the question."
+_DVT	Tooltip	heatMap	The European map visualisation illustrates in a map the values of the answers per Country.
+_DVT	Tooltip	inCountry	The National bar chart visualisation illustrates the values of all answers per selected country and subset. The average among all subsets per answer is also provided at the end.
+_DVT	Tooltip	wordMap	"The Country groups (linear) visualisation shows the countries divided into 3 groups (high, medium and low). Percentages are ordered and separated based on the distances between the values among the result set. Choose between a linear and a circular presentation."
+_DVT	survey	filtro13	filtro13
+_Selector	country	AL	Albania
+_Selector	country	AT	Austria
+_Selector	country	BA	Bosnia
+_Selector	country	BE	Belgium
+_Selector	country	BG	Bulgaria
+_Selector	country	BY	Belarus
+_Selector	country	CH	Switzerland
+_Selector	country	CY	Cyprus
+_Selector	country	CZ	Czech Republic
+_Selector	country	DE	Germany
+_Selector	country	DK	Denmark
+_Selector	country	EE	Estonia
+_Selector	country	EL	Greece
+_Selector	country	ES	Spain
+_Selector	country	FI	Finland
+_Selector	country	FR	France
+_Selector	country	HR	Croatia
+_Selector	country	HU	Hungary
+_Selector	country	IE	Ireland
+_Selector	country	IS	Iceland
+_Selector	country	IT	Italy
+_Selector	country	LT	Lithuania
+_Selector	country	LU	Luxembourg
+_Selector	country	LV	Latvia
+_Selector	country	MD	Moldova
+_Selector	country	ME	Montenegro
+_Selector	country	MK	FYROM
+_Selector	country	MT	Malta
+_Selector	country	NL	Netherlands
+_Selector	country	NO	Norway
+_Selector	country	NONEU	Non EU countries
+_Selector	country	PL	Poland
+_Selector	country	PT	Portugal
+_Selector	country	RO	Romania
+_Selector	country	RS	Serbia
+_Selector	country	SE	Sweden
+_Selector	country	SI	Slovenia
+_Selector	country	SK	Slovakia
+_Selector	country	TR	Turkey
+_Selector	country	UA	Ukraine
+_Selector	country	UK	United Kingdom
+_Selector	country	XK	Kosovo
+_Selector	country	EUCC	EU Candidate Countries
+_Selector	country	EuropeanUnion	European Union
+_Selector	exportType	csv	Data table
+_Selector	plot	crossCountry	4. National comparisons
+_Selector	plot	euBars	2. European bar chart
+_Selector	plot	euCompass	7. Country groups (radial)
+_Selector	plot	euMatrix	5. Data matrix
+_Selector	plot	heatMap	1. European map
+_Selector	plot	inCountry	3. National bar chart
+_Selector	plot	wordMap	6. Country groups (linear)

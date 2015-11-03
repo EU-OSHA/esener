@@ -1,0 +1,240 @@
+Column	ColumnType	Value	Importance	NewValue
+Q150_1	Question	No	2	No
+Q150_1	Question	Yes	1	Yes
+Q150_2	Question	No	2	No
+Q150_2	Question	Yes	1	Yes
+Q150_3	Question	No	2	No
+Q150_3	Question	Yes	1	Yes
+Q150_4	Question	No	2	No
+Q150_4	Question	Yes	1	Yes
+Q150_5	Question	No	2	No
+Q150_5	Question	Yes	1	Yes
+Q155	Question	No	3	No
+Q155	Question	Yes	1	Yes
+Q155	Question	"Yes, but only to some types of employees"	2	"Yes, but only to some types of employees"
+Q156	Question	No	2	No
+Q156	Question	Yes	1	Yes
+Q158_1	Question	No	2	No
+Q158_1	Question	Yes	1	Yes
+Q158_2	Question	No	2	No
+Q158_2	Question	Yes	1	Yes
+Q158_3	Question	No	2	No
+Q158_3	Question	Yes	1	Yes
+Q158_4	Question	No	2	No
+Q158_4	Question	Yes	1	Yes
+Q160	Question	No	2	No
+Q160	Question	Yes	1	Yes
+Q165	Question	No	2	No
+Q165	Question	Yes	1	Yes
+Q166_1	Question	No	2	No
+Q166_1	Question	Yes	1	Yes
+Q166_2	Question	No	2	No
+Q166_2	Question	Yes	1	Yes
+Q166_3	Question	No	2	No
+Q166_3	Question	Yes	1	Yes
+Q166_4	Question	No	2	No
+Q166_4	Question	Yes	1	Yes
+Q200_1	Question	No	2	No
+Q200_1	Question	Yes	1	Yes
+Q200_2	Question	No	2	No
+Q200_2	Question	Yes	1	Yes
+Q200_3	Question	No	2	No
+Q200_3	Question	Yes	1	Yes
+Q200_4	Question	No	2	No
+Q200_4	Question	Yes	1	Yes
+Q200_5	Question	No	2	No
+Q200_5	Question	Yes	1	Yes
+Q200_6	Question	No	2	No
+Q200_6	Question	Yes	1	Yes
+Q200_7	Question	No	2	No
+Q200_7	Question	Yes	1	Yes
+Q200_8	Question	No	2	No
+Q200_8	Question	Yes	1	Yes
+Q200_9	Question	No	2	No
+Q200_9	Question	Yes	1	Yes
+Q201_1	Question	No	2	No
+Q201_1	Question	Yes	1	Yes
+Q201_2	Question	No	2	No
+Q201_2	Question	Yes	1	Yes
+Q201_3	Question	No	2	No
+Q201_3	Question	Yes	1	Yes
+Q201_4	Question	No	2	No
+Q201_4	Question	Yes	1	Yes
+Q201_5	Question	No	2	No
+Q201_5	Question	Yes	1	Yes
+Q201_6	Question	No	2	No
+Q201_6	Question	Yes	1	Yes
+Q201_7	Question	No	2	No
+Q201_7	Question	Yes	1	Yes
+Q202_1	Question	Mentioned	1	Mentioned
+Q202_2	Question	Mentioned	1	Mentioned
+Q202_3	Question	Mentioned	1	Mentioned
+Q202_4	Question	Mentioned	1	Mentioned
+Q202_5	Question	Mentioned	1	Mentioned
+Q202_6	Question	Mentioned	1	Mentioned
+Q202_7	Question	Mentioned	1	Mentioned
+Q202_8	Question	Mentioned	1	Mentioned
+Q202_9	Question	Mentioned	1	Mentioned
+Q202_10	Question	Mentioned	1	Mentioned
+Q202_11	Question	Mentioned	1	Mentioned
+Q202_12	Question	Mentioned	1	Mentioned
+Q202_13	Question	Mentioned	1	Mentioned
+Q202_14	Question	Mentioned	1	Mentioned
+Q202_15	Question	Mentioned	1	Mentioned
+Q250	Question	No	2	No
+Q250	Question	Yes	1	Yes
+Q251	Question	Both about equally	3	Both about equally
+Q251	Question	Conducted mainly by internal staff	1	Conducted mainly by internal staff
+Q251	Question	Contracted mainly to external providers	2	Contracted mainly to external providers
+Q252_1	Question	No	2	No
+Q252_1	Question	Yes	1	Yes
+Q252_2	Question	No	2	No
+Q252_2	Question	Yes	1	Yes
+Q252_3	Question	No	2	No
+Q252_3	Question	Yes	1	Yes
+Q252_4	Question	No	2	No
+Q252_4	Question	Yes	1	Yes
+Q252_5	Question	No	2	No
+Q252_5	Question	Yes	1	Yes
+Q252_6	Question	No	2	No
+Q252_6	Question	Yes	1	Yes
+Q254gr	Question	2010	1	2010
+Q254gr	Question	2011	2	2011
+Q254gr	Question	2012	3	2012
+Q254gr	Question	2013	4	2013
+Q254gr	Question	2014	5	2014
+Q254gr	Question	before 2010	6	before 2010
+Q254gr	Question	don´t know	7	don´t know
+Q255	Question	No	2	No
+Q255	Question	Yes	1	Yes
+Q256_1	Question	No	2	No
+Q256_1	Question	Yes	1	Yes
+Q256_2	Question	No	2	No
+Q256_2	Question	Yes	1	Yes
+Q256_3	Question	No	2	No
+Q256_3	Question	Yes	1	Yes
+Q256_4	Question	No	2	No
+Q256_4	Question	Yes	1	Yes
+Q256_5	Question	No	2	No
+Q256_5	Question	Yes	1	Yes
+Q258b	Question	No	2	No
+Q258b	Question	That depends on the type of measures	3	That depends on the type of measures
+Q258b	Question	Yes	1	Yes
+Q259	Question	No	2	No
+Q259	Question	There are conflicting views about this	3	There are conflicting views about this
+Q259	Question	Yes	1	Yes
+Q261_1	Question	No	2	No
+Q261_1	Question	Yes	1	Yes
+Q261_2	Question	No	2	No
+Q261_2	Question	Yes	1	Yes
+Q261_3	Question	No	2	No
+Q261_3	Question	Yes	1	Yes
+Q261_4	Question	No	2	No
+Q261_4	Question	Yes	1	Yes
+Q264_1	Question	Major reason	1	Major reason
+Q264_1	Question	Minor reason	2	Minor reason
+Q264_1	Question	Not a reason	3	Not a reason
+Q264_2	Question	Major reason	1	Major reason
+Q264_2	Question	Minor reason	2	Minor reason
+Q264_2	Question	Not a reason	3	Not a reason
+Q264_4	Question	Major reason	1	Major reason
+Q264_4	Question	Minor reason	2	Minor reason
+Q264_4	Question	Not a reason	3	Not a reason
+Q264_5	Question	Major reason	1	Major reason
+Q264_5	Question	Minor reason	2	Minor reason
+Q264_5	Question	Not a reason	3	Not a reason
+Q264_6	Question	Major reason	1	Major reason
+Q264_6	Question	Minor reason	2	Minor reason
+Q264_6	Question	Not a reason	3	Not a reason
+Q265_1	Question	Major difficulty	1	Major difficulty
+Q265_1	Question	Minor difficulty	2	Minor difficulty
+Q265_1	Question	Not a difficulty	3	Not a difficulty
+Q265_2	Question	Major difficulty	1	Major difficulty
+Q265_2	Question	Minor difficulty	2	Minor difficulty
+Q265_2	Question	Not a difficulty	3	Not a difficulty
+Q265_3	Question	Major difficulty	1	Major difficulty
+Q265_3	Question	Minor difficulty	2	Minor difficulty
+Q265_3	Question	Not a difficulty	3	Not a difficulty
+Q265_4	Question	Major difficulty	1	Major difficulty
+Q265_4	Question	Minor difficulty	2	Minor difficulty
+Q265_4	Question	Not a difficulty	3	Not a difficulty
+Q265_5	Question	Major difficulty	1	Major difficulty
+Q265_5	Question	Minor difficulty	2	Minor difficulty
+Q265_5	Question	Not a difficulty	3	Not a difficulty
+Q265_6	Question	Major difficulty	1	Major difficulty
+Q265_6	Question	Minor difficulty	2	Minor difficulty
+Q265_6	Question	Not a difficulty	3	Not a difficulty
+Q265_7	Question	Major difficulty	1	Major difficulty
+Q265_7	Question	Minor difficulty	2	Minor difficulty
+Q265_7	Question	Not a difficulty	3	Not a difficulty
+Q300	Question	No	2	No
+Q300	Question	Yes	1	Yes
+Q301	Question	No	2	No
+Q301	Question	Yes	1	Yes
+Q302	Question	No	2	No
+Q302	Question	Yes	1	Yes
+Q303_1	Question	No	2	No
+Q303_1	Question	Yes	1	Yes
+Q303_2	Question	No	2	No
+Q303_2	Question	Yes	1	Yes
+Q303_3	Question	No	2	No
+Q303_3	Question	Yes	1	Yes
+Q303_4	Question	No	2	No
+Q303_4	Question	Yes	1	Yes
+Q304	Question	No	2	No
+Q304	Question	Partly	3	Partly
+Q304	Question	Yes	1	Yes
+Q305	Question	No	2	No
+Q305	Question	Yes	1	Yes
+Q306a_3	Question	No	2	No
+Q306a_3	Question	Yes	1	Yes
+Q306a_4	Question	No	2	No
+Q306a_4	Question	Yes	1	Yes
+Q306a_5	Question	No	2	No
+Q306a_5	Question	Yes	1	Yes
+Q306a_6	Question	No	2	No
+Q306a_6	Question	Yes	1	Yes
+Q307	Question	No	2	No
+Q307	Question	Yes	1	Yes
+Q308_1	Question	No	2	No
+Q308_1	Question	Yes	1	Yes
+Q308_2	Question	No	2	No
+Q308_2	Question	Yes	1	Yes
+Q308_3	Question	No	2	No
+Q308_3	Question	Yes	1	Yes
+Q308_4	Question	No	2	No
+Q308_4	Question	Yes	1	Yes
+Q350	Question	Does not apply (there are no employee representatives)	3	Does not apply (there are no employee representatives)
+Q350	Question	Not at all	4	Not at all
+Q350	Question	Only when particular issues arise	1	Only when particular issues arise
+Q350	Question	Regularly	2	Regularly
+Q351	Question	Often	1	Often
+Q351	Question	Practically never	3	Practically never
+Q351	Question	Sometimes	2	Sometimes
+Q354	Question	No	3	No
+Q354	Question	Yes	1	Yes
+Q354	Question	"Yes, but only some of them"	2	"Yes, but only some of them"
+Q356_1	Question	No	2	No
+Q356_1	Question	Yes	1	Yes
+Q356_2	Question	No	2	No
+Q356_2	Question	Yes	1	Yes
+Q356_3	Question	No	2	No
+Q356_3	Question	Yes	1	Yes
+Q356_4	Question	No	2	No
+Q356_4	Question	Yes	1	Yes
+Q356_5	Question	No	2	No
+Q356_5	Question	Yes	1	Yes
+Q358	Question	In some departments only	2	In some departments only
+Q358	Question	No	3	No
+Q358	Question	Yes	1	Yes
+Sectorgrp	Subset	A	1	A
+Sectorgrp	Subset	BDEF	2	BDEF
+Sectorgrp	Subset	C	7	C
+Sectorgrp	Subset	GHIR	5	GHIR
+Sectorgrp	Subset	JKLMNS	3	JKLMNS
+Sectorgrp	Subset	O	6	O
+Sectorgrp	Subset	PQ	4	PQ
+Size	Subset	10 to 49	2	10 to 49
+Size	Subset	250+	4	250+
+Size	Subset	5 to 9	1	5 to 9
+Size	Subset	50-249	3	50-249

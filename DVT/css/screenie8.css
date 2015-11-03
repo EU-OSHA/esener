@@ -1,0 +1,27 @@
+#label_question select{
+	width:83%;
+}
+#label_topic select{
+	width:78%;
+}
+#formatSelector{
+	border-right:1px solid #ccc;
+}
+
+@media screen and (max-width: 768px) {
+	#label_question select{
+		width:270px;
+	}
+	#label_topic select {
+		width: 170px;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	#label_question select{
+		width:140px;
+	}
+	#label_topic select {
+		width: 80px;
+	}
+}

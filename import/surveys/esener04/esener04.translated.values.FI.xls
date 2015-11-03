@@ -1,0 +1,349 @@
+EntryType	Column	Value	TranslatedValue
+Answer	Q150_1	1. Yes	1. Kyllä
+Answer	Q150_1	2. No	2. Ei
+Answer	Q150_2	1. Yes	1. Kyllä
+Answer	Q150_2	2. No	2. Ei
+Answer	Q150_3	1. Yes	1. Kyllä
+Answer	Q150_3	2. No	2. Ei
+Answer	Q150_4	1. Yes	1. Kyllä
+Answer	Q150_4	2. No	2. Ei
+Answer	Q150_5	1. Yes	1. Kyllä
+Answer	Q150_5	2. No	2. Ei
+Answer	Q155	2. No	2. Ei
+Answer	Q155	1. Yes	1. Kyllä
+Answer	Q155	"3. Yes, but only to some types of employees"	"3. Kyllä, mutta vain tiettyjen työntekijöiden käytettävissä"
+Answer	Q156	1. Yes	1. Kyllä
+Answer	Q156	2. No	2. Ei
+Answer	Q158_1	1. Yes	1. Kyllä
+Answer	Q158_1	2. No	2. Ei
+Answer	Q158_2	1. Yes	1. Kyllä
+Answer	Q158_2	2. No	2. Ei
+Answer	Q158_3	1. Yes	1. Kyllä
+Answer	Q158_3	2. No	2. Ei
+Answer	Q158_4	1. Yes	1. Kyllä
+Answer	Q158_4	2. No	2. Ei
+Answer	Q160	1. Yes	1. Kyllä
+Answer	Q160	2. No	2. Ei
+Answer	Q165	1. Yes	1. Kyllä
+Answer	Q165	2. No	2. Ei
+Answer	Q166_1	1. Yes	1. Kyllä
+Answer	Q166_1	2. No	2. Ei
+Answer	Q166_2	1. Yes	1. Kyllä
+Answer	Q166_2	2. No	2. Ei
+Answer	Q166_3	1. Yes	1. Kyllä
+Answer	Q166_3	2. No	2. Ei
+Answer	Q166_4	1. Yes	1. Kyllä
+Answer	Q166_4	2. No	2. Ei
+Answer	Q200_1	1. Yes	1. Kyllä
+Answer	Q200_1	2. No	2. Ei
+Answer	Q200_2	1. Yes	1. Kyllä
+Answer	Q200_2	2. No	2. Ei
+Answer	Q200_3	1. Yes	1. Kyllä
+Answer	Q200_3	2. No	2. Ei
+Answer	Q200_4	1. Yes	1. Kyllä
+Answer	Q200_4	2. No	2. Ei
+Answer	Q200_5	1. Yes	1. Kyllä
+Answer	Q200_5	2. No	2. Ei
+Answer	Q200_6	1. Yes	1. Kyllä
+Answer	Q200_6	2. No	2. Ei
+Answer	Q200_7	1. Yes	1. Kyllä
+Answer	Q200_7	2. No	2. Ei
+Answer	Q200_8	1. Yes	1. Kyllä
+Answer	Q200_8	2. No	2. Ei
+Answer	Q200_9	1. Yes	1. Kyllä
+Answer	Q200_9	2. No	2. Ei
+Answer	Q201_1	1. Yes	1. Kyllä
+Answer	Q201_1	2. No	2. Ei
+Answer	Q201_2	1. Yes	1. Kyllä
+Answer	Q201_2	2. No	2. Ei
+Answer	Q201_3	1. Yes	1. Kyllä
+Answer	Q201_3	2. No	2. Ei
+Answer	Q201_4	1. Yes	1. Kyllä
+Answer	Q201_4	2. No	2. Ei
+Answer	Q201_5	1. Yes	1. Kyllä
+Answer	Q201_5	2. No	2. Ei
+Answer	Q201_6	1. Yes	1. Kyllä
+Answer	Q201_6	2. No	2. Ei
+Answer	Q201_7	1. Yes	1. Kyllä
+Answer	Q201_7	2. No	2. Ei
+Answer	Q202_1	1. Yes	1. Kyllä
+Answer	Q202_1	2. No	2. Ei
+Answer	Q202_2	1. Yes	1. Kyllä
+Answer	Q202_2	2. No	2. Ei
+Answer	Q202_3	1. Yes	1. Kyllä
+Answer	Q202_3	2. No	2. Ei
+Answer	Q202_4	1. Yes	1. Kyllä
+Answer	Q202_4	2. No	2. Ei
+Answer	Q202_5	1. Yes	1. Kyllä
+Answer	Q202_5	2. No	2. Ei
+Answer	Q202_6	1. Yes	1. Kyllä
+Answer	Q202_6	2. No	2. Ei
+Answer	Q202_7	1. Yes	1. Kyllä
+Answer	Q202_7	2. No	2. Ei
+Answer	Q202_8	1. Yes	1. Kyllä
+Answer	Q202_8	2. No	2. Ei
+Answer	Q202_9	1. Yes	1. Kyllä
+Answer	Q202_9	2. No	2. Ei
+Answer	Q202_10	1. Yes	1. Kyllä
+Answer	Q202_10	2. No	2. Ei
+Answer	Q202_11	1. Yes	1. Kyllä
+Answer	Q202_11	2. No	2. Ei
+Answer	Q202_12	1. Yes	1. Kyllä
+Answer	Q202_12	2. No	2. Ei
+Answer	Q202_13	1. Yes	1. Kyllä
+Answer	Q202_13	2. No	2. Ei
+Answer	Q202_14	1. Yes	1. Kyllä
+Answer	Q202_14	2. No	2. Ei
+Answer	Q202_15	1. Yes	1. Kyllä
+Answer	Q202_15	2. No	2. Ei
+Answer	Q250	1. Yes	1. Kyllä
+Answer	Q250	2. No	2. Ei
+Answer	Q251	1. Conducted mainly by internal staff	1. Pääasiassa oma henkilökunta
+Answer	Q251	2. Contracted mainly to external providers	2. Käytetään apuna ulkoista asiantuntijaa
+Answer	Q251	3. Both about equally	3. Molemmat suurin piirtein yhtä usein
+Answer	Q252_1	1. Yes	1. Kyllä
+Answer	Q252_1	2. No	2. Ei
+Answer	Q252_2	1. Yes	1. Kyllä
+Answer	Q252_2	2. No	2. Ei
+Answer	Q252_3	1. Yes	1. Kyllä
+Answer	Q252_3	2. No	2. Ei
+Answer	Q252_4	1. Yes	1. Kyllä
+Answer	Q252_4	2. No	2. Ei
+Answer	Q252_5	1. Yes	1. Kyllä
+Answer	Q252_5	2. No	2. Ei
+Answer	Q252_6	1. Yes	1. Kyllä
+Answer	Q252_6	2. No	2. Ei
+Answer	Q254gr	1. 2010	1. 2010
+Answer	Q254gr	2. 2011	2. 2011
+Answer	Q254gr	3. 2012	3. 2012
+Answer	Q254gr	4. 2013	4. 2013
+Answer	Q254gr	5. 2014	5. 2014
+Answer	Q254gr	6. before 2010	6. ennen vuotta 2010
+Answer	Q254gr	7. don´t know	7. EOS
+Answer	Q255	1. Yes	1. Kyllä
+Answer	Q255	2. No	2. Ei
+Answer	Q256_1	1. Yes	1. Kyllä
+Answer	Q256_1	2. No	2. Ei
+Answer	Q256_2	1. Yes	1. Kyllä
+Answer	Q256_2	2. No	2. Ei
+Answer	Q256_3	1. Yes	1. Kyllä
+Answer	Q256_3	2. No	2. Ei
+Answer	Q256_4	1. Yes	1. Kyllä
+Answer	Q256_4	2. No	2. Ei
+Answer	Q256_5	1. Yes	1. Kyllä
+Answer	Q256_5	2. No	2. Ei
+Answer	Q258b	1. Yes	1. Kyllä
+Answer	Q258b	2. No	2. Ei
+Answer	Q258b	3. That depends on the type of measures	3. Riippuu toimenpiteiden tyypistä
+Answer	Q259	1. Yes	1. Kyllä
+Answer	Q259	2. No	2. Ei
+Answer	Q259	3. There are conflicting views about this	3. Asiasta ollaan eri mieltä
+Answer	Q261_1	1. Yes	1. Kyllä
+Answer	Q261_1	2. No	2. Ei
+Answer	Q261_2	1. Yes	1. Kyllä
+Answer	Q261_2	2. No	2. Ei
+Answer	Q261_3	1. Yes	1. Kyllä
+Answer	Q261_3	2. No	2. Ei
+Answer	Q261_4	1. Yes	1. Kyllä
+Answer	Q261_4	2. No	2. Ei
+Answer	Q264_1	1. Major reason	1. Tärkeä syy
+Answer	Q264_1	2. Minor reason	2. Vähemmän tärkeä syy
+Answer	Q264_1	3. Not a reason	3. Ei ollenkaan tärkeä syy
+Answer	Q264_2	1. Major reason	1. Tärkeä syy
+Answer	Q264_2	2. Minor reason	2. Vähemmän tärkeä syy
+Answer	Q264_2	3. Not a reason	3. Ei ollenkaan tärkeä syy
+Answer	Q264_4	1. Major reason	1. Tärkeä syy
+Answer	Q264_4	2. Minor reason	2. Vähemmän tärkeä syy
+Answer	Q264_4	3. Not a reason	3. Ei ollenkaan tärkeä syy
+Answer	Q264_5	1. Major reason	1. Tärkeä syy
+Answer	Q264_5	2. Minor reason	2. Vähemmän tärkeä syy
+Answer	Q264_5	3. Not a reason	3. Ei ollenkaan tärkeä syy
+Answer	Q264_6	1. Major reason	1. Tärkeä syy
+Answer	Q264_6	2. Minor reason	2. Vähemmän tärkeä syy
+Answer	Q264_6	3. Not a reason	3. Ei ollenkaan tärkeä syy
+Answer	Q265_1	1. Major difficulty	1. Merkittävä vaikeus
+Answer	Q265_1	2. Minor difficulty	2. Vähäinen vaikeus
+Answer	Q265_1	3. Not a difficulty	3. Ei vaikeus ollenkaan
+Answer	Q265_2	1. Major difficulty	1. Merkittävä vaikeus
+Answer	Q265_2	2. Minor difficulty	2. Vähäinen vaikeus
+Answer	Q265_2	3. Not a difficulty	3. Ei vaikeus ollenkaan
+Answer	Q265_3	1. Major difficulty	1. Merkittävä vaikeus
+Answer	Q265_3	2. Minor difficulty	2. Vähäinen vaikeus
+Answer	Q265_3	3. Not a difficulty	3. Ei vaikeus ollenkaan
+Answer	Q265_4	1. Major difficulty	1. Merkittävä vaikeus
+Answer	Q265_4	2. Minor difficulty	2. Vähäinen vaikeus
+Answer	Q265_4	3. Not a difficulty	3. Ei vaikeus ollenkaan
+Answer	Q265_5	1. Major difficulty	1. Merkittävä vaikeus
+Answer	Q265_5	2. Minor difficulty	2. Vähäinen vaikeus
+Answer	Q265_5	3. Not a difficulty	3. Ei vaikeus ollenkaan
+Answer	Q265_6	1. Major difficulty	1. Merkittävä vaikeus
+Answer	Q265_6	2. Minor difficulty	2. Vähäinen vaikeus
+Answer	Q265_6	3. Not a difficulty	3. Ei vaikeus ollenkaan
+Answer	Q265_7	1. Major difficulty	1. Merkittävä vaikeus
+Answer	Q265_7	2. Minor difficulty	2. Vähäinen vaikeus
+Answer	Q265_7	3. Not a difficulty	3. Ei vaikeus ollenkaan
+Answer	Q300	1. Yes	1. Kyllä
+Answer	Q300	2. No	2. Ei
+Answer	Q301	1. Yes	1. Kyllä
+Answer	Q301	2. No	2. Ei
+Answer	Q302	1. Yes	1. Kyllä
+Answer	Q302	2. No	2. Ei
+Answer	Q303_1	1. Yes	1. Kyllä
+Answer	Q303_1	2. No	2. Ei
+Answer	Q303_2	1. Yes	1. Kyllä
+Answer	Q303_2	2. No	2. Ei
+Answer	Q303_3	1. Yes	1. Kyllä
+Answer	Q303_3	2. No	2. Ei
+Answer	Q303_4	1. Yes	1. Kyllä
+Answer	Q303_4	2. No	2. Ei
+Answer	Q304	1. Yes	1. Kyllä
+Answer	Q304	2. No	2. Ei
+Answer	Q304	3. Partly	3. Osittain
+Answer	Q305	2. No	2. Ei
+Answer	Q305	1. Yes	1. Kyllä
+Answer	Q306a_3	1. Yes	1. Kyllä
+Answer	Q306a_3	2. No	2. Ei
+Answer	Q306a_4	1. Yes	1. Kyllä
+Answer	Q306a_4	2. No	2. Ei
+Answer	Q306a_5	1. Yes	1. Kyllä
+Answer	Q306a_5	2. No	2. Ei
+Answer	Q306a_6	1. Yes	1. Kyllä
+Answer	Q306a_6	2. No	2. Ei
+Answer	Q307	1. Yes	1. Kyllä
+Answer	Q307	2. No	2. Ei
+Answer	Q308_1	1. Yes	1. Kyllä
+Answer	Q308_1	2. No	2. Ei
+Answer	Q308_2	1. Yes	1. Kyllä
+Answer	Q308_2	2. No	2. Ei
+Answer	Q308_3	1. Yes	1. Kyllä
+Answer	Q308_3	2. No	2. Ei
+Answer	Q308_4	1. Yes	1. Kyllä
+Answer	Q308_4	2. No	2. Ei
+Answer	Q350	3. Not at all	3. Ei lainkaan
+Answer	Q350	2. Only when particular issues arise	"2. Vain, kun asioita nousee esiin"
+Answer	Q350	1. Regularly	1. Säännöllisesti
+Answer	Q351	1. Often	1. Usein
+Answer	Q351	3. Practically never	3. Tuskin koskaan
+Answer	Q351	2. Sometimes	2. Joskus
+Answer	Q354	2. No	2. Ei
+Answer	Q354	1. Yes	1. Kyllä
+Answer	Q354	"3. Yes, but only some of them"	"3. Kyllä, mutta vain osalle heistä"
+Answer	Q356_1	1. Yes	1. Kyllä
+Answer	Q356_1	2. No	2. Ei
+Answer	Q356_2	1. Yes	1. Kyllä
+Answer	Q356_2	2. No	2. Ei
+Answer	Q356_3	1. Yes	1. Kyllä
+Answer	Q356_3	2. No	2. Ei
+Answer	Q356_4	1. Yes	1. Kyllä
+Answer	Q356_4	2. No	2. Ei
+Answer	Q356_5	1. Yes	1. Kyllä
+Answer	Q356_5	2. No	2. Ei
+Answer	Q358	3. In some departments only	3. Vain joillain osastoilla
+Answer	Q358	2. No	2. Ei
+Answer	Q358	1. Yes	1. Kyllä
+Subset	Sectorgrp	Sectorgrp	Toiminta-ala
+Subset	Size	Size	Toimipaikan koko
+SubsetValue	Sectorgrp	All	Kaikki
+SubsetValue	Sectorgrp	1. A	"1. Maa-, metsä- ja kalatalous"
+SubsetValue	Sectorgrp	2. BDEF	"2. Rakentaminen, jätehuolto sekä vesi- ja sähköhuolto"
+SubsetValue	Sectorgrp	5. JKLMNS	"5. IT-palvelut, rahoituspalvelut, kiinteistöalan palvelut ja muut tekniset ja tieteelliset palvelut tai henkilökohtaiset palvelut"
+SubsetValue	Sectorgrp	7. PQ	"7. Koulutus-, terveydenhuolto- ja sosiaalipalvelut"
+SubsetValue	Sectorgrp	4. GHIR	"4. Kauppa, kuljetus, ravitsemis- ja majoitustoiminta sekä virkistystoiminta"
+SubsetValue	Sectorgrp	6. O	6. Julkishallinto
+SubsetValue	Sectorgrp	3. C	3. Teollinen tuotanto
+SubsetValue	Size	All	Kaikki
+SubsetValue	Size	1. 5 to 9	1. 5–9 työntekijää
+SubsetValue	Size	2. 10 to 49	2. 10–49 työntekijää
+SubsetValue	Size	3. 50-249	3. 50–249 työntekijää
+SubsetValue	Size	4. 250+	4. 250 työntekijää tai enemmän
+_DVS	crossCountry	mean	yli
+_DVS	crossCountry	percentage	
+_DVS	word	alertnotdis	"Kuvaa ei voida näyttää, koska valitut tiedot eivät ole edustavia."
+_DVS	word	all	Kaikki
+_DVS	word	below	alle
+_DVS	word	euonly	Vain EU
+_DVS	word	euonlytt	Toiminto suodattaa EU:n jäsenvaltioiden tiedot
+_DVS	word	languages	Saatavissa olevat kielet
+_DVS	word	mean	keskiarvo
+_DVS	word	ok	Ok
+_DVS	word	percentage	prosenttiosuus
+_DVS	word	selectContent	Valitse sisältö
+_DVS	word	visitURL	Kopioi: Ctrl+C 
+_DVS	word	toCopy	Käy URL-osoitteessa
+_DVT	Label	answer	Vastaus
+_DVT	Label	country	Maa
+_DVT	Label	countryB	Verrattuna maahan
+_DVT	Label	plot	Visualisointi
+_DVT	Label	question	Kysymys
+_DVT	Label	subset	
+_DVT	Label	subsetValue	
+_DVT	Label	topic	Aihe
+_DVT	Link	citeExport	Lainaa tätä visualisointia
+_DVT	Link	csvExport	Data (XLS)
+_DVT	Link	epsExport	Korkea resoluutio (EPS)
+_DVT	Link	htmlExport	Sisäänrakennettu HTML
+_DVT	Link	nextQuest	Seuraava kysymys
+_DVT	Link	pdfExport	PDF
+_DVT	Link	pngExport	Kuva (PNG)
+_DVT	Link	prevQuest	Edellinen kysymys
+_DVT	Link	svgExport	SVG
+_DVT	Link	toolUrlExport	URL-sivu
+_DVT	Link	urlExport	Lisää sivu kirjanmerkkeihin
+_DVT	Title	exportOptions	Vie visualisointi
+_DVT	Title	plotParameters	Valitse kysymys
+_DVT	Tooltip	crossCountry	"Visualisointi kuvaa vastausten prosenttiosuutta, tietyn ihmisryhmän vastauskohtaista keskiarvoa kahden maan välillä tai Euroopan keskiarvoa kysymyksen osalta."
+_DVT	Tooltip	euBars	"Visualisointi kuvaa vastausten prosenttiosuutta, vastauskohtaista keskiarvoa maittain tai kaikissa Euroopan maissa kysymyksen osalta."
+_DVT	Tooltip	heatMap	Visualisointi kuvaa kartalla vastausten prosenttimääriä tai vastauskohtaista keskiarvoa maittain Euroopassa.
+_DVT	Tooltip	inCountry	Visualisointi kuvaa vastauksien prosenttiosuuksia tai yhden kysymyksen vastausten keskiarvoa tietyssä ryhmässä yhdessä maassa.
+_DVT	survey	esener04	
+_Selector	country	AL	Albania
+_Selector	country	AT	Itävalta
+_Selector	country	BA	Bosnia
+_Selector	country	BE	Belgia
+_Selector	country	BG	Bulgaria
+_Selector	country	BY	Valkovenäjä
+_Selector	country	CH	Sveitsi
+_Selector	country	CY	Kypros
+_Selector	country	CZ	Tšekki
+_Selector	country	DE	Saksa
+_Selector	country	DK	Tanska
+_Selector	country	EE	Viro
+_Selector	country	EL	Kreikka
+_Selector	country	ES	Espanja
+_Selector	country	FI	Suomi
+_Selector	country	FR	Ranska
+_Selector	country	HR	Kroatia
+_Selector	country	HU	Unkari
+_Selector	country	IE	Irlanti
+_Selector	country	IS	Islanti
+_Selector	country	IT	Italia
+_Selector	country	LT	Liettua
+_Selector	country	LU	Luxemburg
+_Selector	country	LV	Latvia
+_Selector	country	MD	Moldova
+_Selector	country	ME	Montenegro
+_Selector	country	MK	EJTM
+_Selector	country	MT	Malta
+_Selector	country	NL	Alankomaat
+_Selector	country	NO	Norja
+_Selector	country	NONEU	Muut kuin EU-maat
+_Selector	country	PL	Puola
+_Selector	country	PT	Portugali
+_Selector	country	RO	Romania
+_Selector	country	RS	Serbia
+_Selector	country	SE	Ruotsi
+_Selector	country	SI	Slovenia
+_Selector	country	SK	Slovakia
+_Selector	country	TR	Turkki
+_Selector	country	UA	Ukraina
+_Selector	country	UK	Yhdistynyt kuningaskunta
+_Selector	country	XK	Kosovo
+_Selector	country	EUCC	EU:n ehdokasvaltiot
+_Selector	country	EuropeanUnion	Euroopan unioni
+_Selector	exportType	csv	Näytä tietotaulukko
+_Selector	plot	crossCountry	4. Kansalliset vertailut
+_Selector	plot	euBars	2. EU-pylväskaavio
+_Selector	plot	heatMap	1. Euroopan kartta
+_Selector	plot	inCountry	3. Kansallinen pylväskaavio
+_Selector	country	Kosovo under UNSCR 1244/99	Kosovo YK:n päätöslauselman UNSCR 1244/99 mukaan
+_DVT	Link	Questionnaire	KYSELYLOMAKE

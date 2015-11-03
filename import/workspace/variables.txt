@@ -1,0 +1,149 @@
+DVS.key.localized.values.file.name
+      character
+            value:defaultData/DVS.translate.values.XX.xls
+DVT.folder
+      character
+            value:/web-pub/foundation/html/DVS/DVT/
+DVT.key.localized.values.file.name
+      character
+            value:defaultData/DVT.translate.values.XX.xls
+DVT.model.folder
+      character
+            value:/web-pub/foundation/html/DVS/DVT/model/
+RRML.validation.layer
+      character
+            value:/web-pub/foundation/html/DVS/render/VL/
+column.type.CountryCode
+      character
+            value:CountryCode
+column.type.CountryName
+      character
+            value:CountryName
+column.type.Delete
+      character
+            value:Delete
+column.type.Question
+      character
+            value:Question
+column.type.QuestionMR
+      character
+            value:QuestionMR
+column.type.QuestionMean
+      character
+            value:QuestionMean
+column.type.Subset
+      character
+            value:Subset
+column.type.Weight
+      character
+            value:Weight
+converter.base.path
+      character
+            value:/web-pub/foundation/html/DVS/import/surveys/
+converter.scripts.path
+      character
+            value:/web-pub/foundation/html/DVS/import/convertor/
+countries.code.name
+      data frame
+            columns names:   CountryCode CountryName CountryEUStatus
+            values of(' CountryCode '):   AT BE BG CY CZ DK EE FI FR DE  ..... 
+            values of(' CountryName '):   Austria Belgium Bulgaria Cyprus Czech Republic Denmark Estonia Finland France Germany  ..... 
+            values of(' CountryEUStatus '):   EuropeanUnion EuropeanUnion EuropeanUnion EuropeanUnion EuropeanUnion EuropeanUnion EuropeanUnion EuropeanUnion EuropeanUnion EuropeanUnion  ..... 
+countries.code.name.status.file.name
+      character
+            value:defaultData/countries.code.name.xls
+dvs.folder
+      character
+            value:/web-pub/foundation/html/DVS/
+mean.substitutable.column.types
+      character
+            value:QuestionMean
+multiple.response.false
+      character
+            value:Did not mention
+multiple.response.true
+      character
+            value:Mention
+step0.input.file.name
+      character
+            value:spss.sav
+step0.output.file.name
+      character
+            value:analyse.columns.xls
+step1.input.file.name
+      character
+            value:analysed.columns.xls
+step1.means.output.file.name
+      character
+            value:substitutable.means.columns.values.xls
+step1.multiple.output.file.name
+      character
+            value:substitutable.multiple.response.columns.values.xls
+step1.output.file.name
+      character
+            value:substitutable.columns.values.xls
+step2.input.file.name
+      character
+            value:substitute.columns.values.xls
+step2.means.input.file.name
+      character
+            value:substitute.means.columns.values.xls
+step2.questions.output.file.name
+      character
+            value:translate.questions.XX.xls
+step2.values.output.file.name
+      character
+            value:translate.values.XX.xls
+step3.questions.input.file.name.pattern
+      character
+            value:translated.questions.*.xls
+step3.values.input.file.name.pattern
+      character
+            value:translated.values.*.xls
+substitutable.column.types
+      character
+            value:Subset
+            value:Question
+            value:QuestionMean
+survey.refined.data.file.name
+      character
+            value:survey.refined.data.RData
+survey.refined.mrq.data.file.name
+      character
+            value:survey.refined.mrq.data.RData
+user.substitutable.column.types
+      character
+            value:Subset
+            value:Question
+valid.column.types
+      character
+            value:CountryCode
+            value:CountryName
+            value:Subset
+            value:Question
+            value:QuestionMean
+            value:QuestionMR
+            value:Weight
+            value:Delete
+valid.parameters.php
+      character
+            value:valid.parameters.php
+valid.questions.localization.columns
+      character
+            value:QuestionCode
+            value:Category
+            value:WebTranslation
+            value:FullTranslation
+            value:Note
+valid.survey.locales.php
+      character
+            value:valid.locales.php
+valid.values.localization.columns
+      character
+            value:EntryType
+            value:Column
+            value:Value
+            value:TranslatedValue
+value.delete
+      character
+            value:Delete

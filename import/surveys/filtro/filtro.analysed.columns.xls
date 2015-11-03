@@ -1,0 +1,43 @@
+Column	Overview	Type	ColumnAs
+Respid	> 13 values, count: 49320 class:  numeric . First three distinct values :  1|2|3	Delete	
+country	> 13 values, count: 36 class:  factor . First three distinct values :  Netherlands|Belgium|Germany	CountryName	
+estwei	> 13 values, count: 2509 class:  numeric . First three distinct values :  1.1936|0.679|1.7522	Delete	
+estprop	> 13 values, count: 2350 class:  numeric . First three distinct values :  1.034|0.5882|1.5179	Delete	
+estex	> 13 values, count: 2691 class:  numeric . First three distinct values :  139.8319|79.5498|205.2848	Delete	
+empwei	> 13 values, count: 2543 class:  numeric . First three distinct values :  0.6889|0.4482|0.3484	Delete	
+empprop	> 13 values, count: 2455 class:  numeric . First three distinct values :  0.7018|0.4566|0.3549	Delete	
+empex	> 13 values, count: 2677 class:  numeric . First three distinct values :  2607.4019|1696.3959|1318.6462	Delete	
+Internr	> 13 values, count: 785 class:  numeric . First three distinct values :  0|11008387|11008332	Delete	
+Mode	2 values : CAWI|CATI	Delete	
+Nace1	> 13 values, count: 19 class:  factor . First three distinct values :  G|C|M	Delete	
+Nace1_16	> 13 values, count: 16 class:  factor . First three distinct values :  G|C|M	Delete	
+Sectorgrp	7 values : Trade|Manufacturing|IT|Public administrati...	Subset	
+Size	4 values : 10-49|5-9|250+|50-249	Subset	
+EU28	2 values : yes|no	Delete	
+Esener1	2 values : 10+ and no A|NA	Delete	
+Adr_scrcntr	2 values : non-screening countries|screening countries	Delete	
+Adr_scrint	3 values : first interview/main address|second addres...	Delete	
+Q200_1	3 values : Yes|No|NA	Question	
+Q200_2	3 values : Yes|No|NA	Question	
+Q200_3	3 values : No|Yes|NA	Question	
+Q200_4	3 values : Yes|No|NA	Question	
+Q200_5	3 values : Yes|No|NA	Question	
+Q200_6	3 values : Yes|No|NA	Question	
+Q200_7	3 values : Yes|No|NA	Question	
+Q200_8	3 values : No|Yes|NA	Question	
+Q200_9	3 values : No|Yes|NA	Question	
+Q201_1	3 values : No|Yes|NA	Question	
+Q201_2	3 values : No|Yes|NA	Question	
+Q201_3	3 values : No|Yes|NA	Question	
+Q201_4	3 values : No|Yes|NA	Question	
+Q201_5	3 values : No|Yes|NA	Question	
+Q201_6	3 values : No|Yes|NA	Question	
+Q201_7	3 values : No|Yes|NA	Question	
+Q250	3 values : Yes|No|NA	Question	
+Q251	4 values : Both about equally|NA|Conducted mainly by ...	Question	
+Q264_1	4 values : Major reason|Minor reason|Not a reason|NA	Question	
+Q264_2	4 values : Major reason|Minor reason|Not a reason|NA	Question	
+Q264_4	4 values : Major reason|Not a reason|Minor reason|NA	Question	
+Q264_5	4 values : Major reason|Not a reason|Minor reason|NA	Question	
+Q264_6	4 values : Major reason|Minor reason|Not a reason|NA	Question	
+Q307	3 values : Yes|No|NA	Question	

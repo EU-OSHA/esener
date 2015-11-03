@@ -1,0 +1,212 @@
+/* EFWEB */
+
+div#printdiv {
+  visibility: visible;
+  display: block;
+  width: 100%;
+}
+
+div#waitoolbar, div#servicetools, div#searchbox, #path, div.wailinks,div#wailinks{
+display:none;
+}
+div#efbanner img {
+
+background-color:#529579;
+font-size:0.8em;
+}
+
+img#eflogo {
+	border:0;
+}
+
+
+div#main {
+	margin:0px;
+	padding:0px;
+	background-color:#ffffff;
+	width: 95%;
+}
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin:0px;
+	padding:0px;
+}
+
+
+div#content {
+	margin:0px;
+	padding:0px;
+	width: 95%;
+}
+ul.nobullet {
+	list-style-type: none;
+	margin:0;
+	padding:12px 0 0 0;
+}
+
+div#content ul p {
+	font-size:100%;
+}
+
+a {
+
+}
+
+div#content p {
+	font-size:0.8em;
+}
+
+div#content table.record {
+	font-size:0.8em;
+	border-collapse:collapse;
+	border:2px solid #38715b;
+}
+
+div#content table.record tr td, div#content table.record tr th {
+border:1px solid #C9E4DA;
+padding:6px;
+vertical-align:top;
+}
+
+div#content table.record caption {
+text-align:left;
+font-weight:bold;
+padding:12px 0 12px 0;
+}
+
+div#content table.record th {
+text-align:left;
+color:#38715b;
+width:15%;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+div#content table.record tr.darkrow {
+background-color:#EEF7F4;
+}
+
+
+div#content h1.noarrow {
+background-image:url();
+padding-left:0;
+
+}
+
+div#content h2 {
+	font-size:1em;
+	color:#000000;
+	margin-top: 1em;
+}
+
+div#content h3 {
+	font-size:0.9em;
+	color:#000000;
+}
+
+div#content h3.tableheader {
+	margin-bottom:0;
+	padding-bottom:0;
+}
+
+div#content h4 {
+	font-size:0.8em;
+	color:#000000;
+}
+
+div#content span.date {
+	font-size:0.8em;
+	color:#000000;
+}
+
+div#content span.country {
+	color:#000000;
+}
+
+div#content ul li, div#content ol li {
+	font-size:0.8em;
+}
+
+div#content ul li li, div#content ol li li {
+	font-size:100%;
+}
+
+div#content table.list {
+	font-size:1em;
+	border-collapse:collapse;
+	border:1px solid #38715b;
+	background-color:#EEF7F4;
+	width: 100%;
+	margin-bottom:30px;
+}
+div#content table.list tr td, div#content table.list tr th {
+border:1px solid #C9E4DA;
+padding:6px;
+vertical-align:top;
+font-size: 1em;
+text-align:left;
+}
+
+div#content div.annualreview table.list tr td{
+font-size: 1em;
+}
+div#content table.list {
+	font-size:1em;
+	border-collapse:collapse;
+	border:1px solid #38715b;
+	background-color:#EEF7F4;
+	width: 100%;
+	margin-bottom:30px;
+}
+div#content table.list tr td, div#content table.list tr th {
+border:1px solid #C9E4DA;
+padding:6px;
+vertical-align:top;
+font-size: 1em;
+text-align:left;
+}
+
+div#content div.annualreview table.list tr td{
+font-size: 1em;
+}
+
+/*---------------------Display styles by Stefan------------------*/
+div#leftmenu, div.backtop, div#languages, div#footer, div#servicetools, div#searchbox, span.bgcolor , div.bgcolor, div#spot2, div#path_home {
+display:none;
+}
+div#content h1 {
+	font-size:1.1em;
+	margin:0;
+	padding:0;
+	color:#000000;
+	background-image: none;
+}
+
+caption			{ font-size: 0.8em; font-style: italic; }
+td				{ font-size: 0.8em; /*word-break: break-all; word-wrap: normal; text-wrap:unrestricted;*/}
+th				{ font-size: 0.8em; /*word-break: break-all; word-wrap: normal; text-wrap:unrestricted;*/}
+
+div#date{
+	font-size: 0.8em;
+	margin-bottom: 20px;
+}
+
+div#news, div.sidebox {
+	font-size: 0.8em;
+}
+div#aboutpanel{
+	font-size: 1.2em;
+	font-weight:bold;
+}
+div.boxhead h3{
+	font-weight:bold;
+	font-size: 1.2em;
+}
+
+table.adminboardtable th {
+   text-transform: uppercase;
+}
+
+table.adminboardtable th.adminboardcountry {
+	text-transform: none;	
+}

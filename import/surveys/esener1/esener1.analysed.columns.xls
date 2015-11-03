@@ -1,0 +1,248 @@
+Column	Overview	Type	ColumnAs
+id	"> 13 values, count: 28649 class:  numeric . First three distinct values :  1|2|3"	Delete	
+MM100	3 values : A single independent company or organizati...	Delete	
+MM101	4 values : NA|Subsidary site|Headquarters| DK/ NA	Delete	
+MM103	3 values : No|Yes|DK/ NA	Delete	
+MM106	5 values : Between 1990 and 2005|Before 1990|NA|After...	Delete	
+MM150_1	3 values : No|Yes|DK/ NA	Question	
+MM150_2	3 values : Yes|No|DK/ NA	Question	
+MM150_3	3 values : No|Yes|DK/ NA	Question	
+MM150_4	3 values : No|Yes|DK/ NA	Question	
+MM150_5	3 values : No|Yes|DK/ NA	Question	
+MM152	3 values : No|Yes|DK/ NA	Question	
+MM153	3 values : No|Yes|DK/ NA	Question	
+MM154	3 values : No|Yes|DK/ NA	Question	
+MM155	3 values : No|Yes|DK/ NA	Question	
+MM156	5 values : NA|Large impact|Practically no impact|Some...	Delete	
+MM157_1	4 values : Yes|NA|No|DK/ NA	Delete	
+MM157_2	4 values : No|NA|Yes|DK/ NA	Delete	
+MM157_3	4 values : No|NA|Yes|DK/ NA	Delete	
+MM157_4	4 values : No|NA|Yes|DK/ NA	Delete	
+MM157_5	4 values : No|NA|Yes|DK/ NA	Delete	
+MM158	4 values : DK/ NA|Practically never|Occasionally|Regu...	Question	
+MM159	5 values : DK/ NA|Very low|Quite high|Quite low|Very ...	Question	
+MM161	3 values : Yes|No|DK/ NA	Question	
+MM162	5 values : Conducted by own staff|Contracted to exter...	Delete	
+MM163_1	4 values : Yes|No|NA|DK/ NA	Delete	
+MM163_2	4 values : Yes|No|DK/ NA|NA	Delete	
+MM163_3	4 values : Yes|NA|No|DK/ NA	Delete	
+MM164_1	4 values : Yes|NA|No|DK/ NA	Delete	
+MM164_2	4 values : No|Yes|NA|DK/ NA	Delete	
+MM164_3	4 values : No|Yes|NA|DK/ NA	Delete	
+MM164_4	4 values : No|Yes|NA|DK/ NA	Delete	
+MM166_1	4 values : No|Yes|NA|DK/ NA	Delete	
+MM166_2	4 values : No|Yes|NA|DK/ NA	Delete	
+MM166_3	4 values : No|Yes|NA|DK/ NA	Delete	
+MM166_4	4 values : No|Yes|NA|DK/ NA	Delete	
+MM169_1	4 values : NA|No|Yes|DK/ NA	Delete	
+MM169_2	4 values : NA|No|DK/ NA|Yes	Delete	
+MM169_3	4 values : NA|No|DK/ NA|Yes	Delete	
+MM169_4	4 values : NA|Yes|No|DK/ NA	Delete	
+MM170	3 values : Yes|No|DK/ NA	Question	
+MM171_1	4 values : Minor|Major|DK/ NA|No	Question	
+MM171_2	4 values : Major|Minor|No|DK/ NA	Question	
+MM171_3	4 values : Minor|Major|No|DK/ NA	Question	
+MM171_4	4 values : Minor|No|Major|DK/ NA	Question	
+MM171_5	4 values : Minor|No|Major|DK/ NA	Question	
+MM171_6	4 values : Minor|No|Major|DK/ NA	Question	
+MM172_1	4 values : Minor|No|Major|DK/ NA	Question	
+MM172_2	4 values : No|Minor|Major|DK/ NA	Question	
+MM172_3	4 values : No|Minor|Major|DK/ NA	Question	
+MM172_4	4 values : No|Minor|Major|DK/ NA	Question	
+MM172_5	4 values : No|Minor|Major|DK/ NA	Question	
+MM172_6	4 values : No|Minor|Major|DK/ NA	Question	
+MM173_1	3 values : No|DK/ NA|Yes	Question	
+MM173_2	3 values : No|Yes|DK/ NA	Question	
+MM173_3	3 values : No|Yes|DK/ NA	Question	
+MM173_4	3 values : No|Yes|DK/ NA	Question	
+MM173_5	3 values : No|Yes|DK/ NA	Question	
+MM173_6	3 values : No|Yes|DK/ NA	Question	
+MM173_7	3 values : No|Yes|DK/ NA	Question	
+MM173_8	3 values : No|Yes|DK/ NA	Question	
+MM175	3 values : No|Yes|DK/ NA	Question	
+MM200_1	4 values : No concern|Some concern|Major concern|DK/ NA	Question	
+MM200_2	4 values : No concern|Major concern|Some concern|DK/ NA	Question	
+MM200_3	4 values : No concern|Major concern|Some concern|DK/ NA	Question	
+MM200_4	4 values : Some concern|No concern|Major concern|DK/ NA	Question	
+MM200_5	4 values : No concern|Some concern|Major concern|DK/ NA	Question	
+MM200_6	4 values : No concern|Some concern|Major concern|DK/ NA	Question	
+MM200_7	4 values : No concern|Some concern|Major concern|DK/ NA	Question	
+MM202_1	3 values : No|Yes|DK/ NA	Question	
+MM202_2	3 values : No|Yes|DK/ NA	Question	
+MM202_3	3 values : No|Yes|DK/ NA	Question	
+MM202_4	3 values : No|Yes|DK/ NA	Question	
+MM202_5	3 values : No|Yes|DK/ NA	Question	
+MM202_6	3 values : No|Yes|DK/ NA	Question	
+MM202_7	3 values : No|Yes|DK/ NA	Question	
+MM202_8	3 values : No|Yes|DK/ NA	Question	
+MM202_9	3 values : No|Yes|DK/ NA	Question	
+MM202_10	3 values : No|DK/ NA|Yes	Question	
+MM250	4 values : No|Yes|Work-related stress is not an issue...	Question	
+MM251	4 values : These problems are not an issue in our est...	Question	
+MM252	4 values : Work-related violence is not an issue in o...	Question	
+MM253_1	3 values : Yes|No|DK/ NA	Question	
+MM253_2	3 values : Yes|No|DK/ NA	Question	
+MM253_3	3 values : No|Yes|DK/ NA	Question	
+MM253_4	3 values : No|Yes|DK/ NA	Question	
+MM253_5	3 values : No|Yes|DK/ NA	Question	
+MM253_6	3 values : No|Yes|DK/ NA	Question	
+MM256	4 values : Long or irregular working hours are not an...	Question	
+MM259	3 values : No|Yes|No answer	Question	
+MM260	3 values : Yes|No|No answer	Question	
+MM262_1	4 values : No|Yes|DK/ NA|NA	Delete	
+MM262_2	4 values : Yes|No|DK/ NA|NA	Delete	
+MM262_3	4 values : No|DK/ NA|NA|Yes	Delete	
+MM262_4	4 values : No|Yes|DK/ NA|NA	Delete	
+MM262_5	4 values : No|Yes|DK/ NA|NA	Delete	
+MM262_6	4 values : No|DK/ NA|NA|Yes	Delete	
+MM263	6 values : Very effective|Quite ineffective|No answer...	Delete	
+MM266	4 values : No|No answer|Yes|NA	Delete	
+MM267	4 values : No|Yes|No answer|NA	Delete	
+MM300	4 values : No difference|More difficult|Less difficul...	Question	
+MM301_1	4 values : NA|Yes|No|DK/ NA	Delete	
+MM301_2	4 values : NA|No|Yes|DK/ NA	Delete	
+MM301_3	4 values : NA|No|Yes|DK/ NA	Delete	
+MM301_4	4 values : NA|Yes|No|DK/ NA	Delete	
+MM301_5	4 values : NA|No|Yes|DK/ NA	Delete	
+MM301_6	4 values : NA|No|DK/ NA|Yes	Delete	
+MM302	3 values : No|Yes|No answer	Question	
+MM303a	4 values : NA|No|Yes|No answer	Question	
+MM303b	4 values : No|No answer|NA|Yes	Delete	
+MM304_1	4 values : NA|DK/ NA|Yes|No	Delete	
+MM304_2	4 values : NA|DK/ NA|Yes|No	Delete	
+MM304_3	4 values : NA|DK/ NA|Yes|No	Delete	
+MM350	4 values : No|Yes|No answer|NA	Question	
+MM351	4 values : NA|No|Yes|No answer	Question	
+MM353	6 values : NA|Very important|Quite important|Quite un...	Delete	
+MM354	5 values : NA|Sometimes|Practically never|Often|No an...	Delete	
+MM355	4 values : Yes|No|No answer|NA	Delete	
+MM355NL	4 values : NA|No|Yes|No answer	Delete	
+MM358	4 values : No|Yes|No answer|NA	Question	
+MM400	"> 13 values, count: 99 class:  numeric . First three distinct values :  999|84|15"	Delete	
+MM400x	9 values : 20% to less than 40%|60% to less than 80%|...	Delete	
+MM401	"> 13 values, count: 85 class:  numeric . First three distinct values :  999|0|25"	Delete	
+MM401x	8 values : Less than 20%|NA|20% to less than 40%|DK/ ...	Delete	
+MM402	6 values : Very low|About average|Quite low|No answer...	Delete	
+MM403	6 values : Quite good|Very good|No answer|Neither goo...	Delete	
+mm405	"> 13 values, count: 80 class:  numeric . First three distinct values :  999|5|0"	Delete	
+MM405x	9 values : Less than 20%|NA|DK/ NA|20% to less than 4...	Delete	
+mm405all	8 values : Less than 20%|None at all|20% to less than...	Delete	
+MM500	5 values : NA|Information (name and/ or telephone num...	Delete	
+MM501	4 values : NA|Refused|Yes|No	Delete	
+MM502	5 values : NA|The respondent is this person|Dont know...	Delete	
+MM503a	5 values : NA|Refused|The respondent is this person|I...	Delete	
+MM503d	5 values : NA|The respondent is this person|Refused|I...	Delete	
+MM504	5 values : Refused|The respondent is this person|NA|D...	Delete	
+MM506	5 values : Respondent maintains refusal|NA|Respondent...	Delete	
+MM508	"3 values : No, does not agree|Yes, agrees|DK/ NA"	Delete	
+ER102	4 values : NA|Yes|DK/ NA|No	Delete	
+ER103	7 values : NA|Several times a year|Several times a mo...	Delete	
+ER107	5 values : NA|Practically never|Often|Sometimes|DK/ NA	Delete	
+ER150	4 values : NA|Yes|No|DK/ NA	Delete	
+ER153_1	4 values : NA|Yes|No|DK/ NA	Delete	
+ER153_2	4 values : NA|No|Yes|DK/ NA	Delete	
+ER153_3	4 values : NA|No|Yes|DK/ NA	Delete	
+ER154	4 values : NA|DK/ NA|Yes|No	Delete	
+ER155	4 values : NA|Yes|No|DK/ NA	Delete	
+ER156_1	4 values : NA|Yes|No|DK/ NA	Delete	
+ER156_2	4 values : NA|Yes|No|DK/ NA	Delete	
+ER156_3	4 values : NA|Yes|No|DK/ NA	Delete	
+ER156_4	4 values : NA|DK/ NA|Yes|No	Delete	
+ER159_1	4 values : NA|Yes|No|DK/ NA	Delete	
+ER159_2	4 values : NA|Yes|No|DK/ NA	Delete	
+ER159_3	4 values : NA|Yes|No|DK/ NA	Delete	
+ER159_4	4 values : NA|Yes|No|DK/ NA	Delete	
+ER159_5	4 values : NA|Yes|No|DK/ NA	Delete	
+ER159_6	4 values : NA|No|Yes|DK/ NA	Delete	
+ER159_7	4 values : NA|Yes|No|DK/ NA	Delete	
+ER160	4 values : NA|DK/ NA|More training would be desirable...	Delete	
+ER161a_1	4 values : NA|Yes|No|DK/ NA	Delete	
+ER161a_2	4 values : NA|Yes|No|DK/ NA	Delete	
+ER161a_3	4 values : NA|No|Yes|DK/ NA	Delete	
+ER161a_4	4 values : NA|Yes|No|DK/ NA	Delete	
+ER161a_5	4 values : NA|Yes|No|DK/ NA	Delete	
+ER161a_6	4 values : NA|Yes|No|DK/ NA	Delete	
+ER161a_7	4 values : NA|Yes|DK/ NA|No	Delete	
+ER161b_1	4 values : NA|No|Yes|DK/ NA	Delete	
+ER161b_2	4 values : NA|No|Yes|DK/ NA	Delete	
+ER161b_3	4 values : NA|No|Yes|DK/ NA	Delete	
+ER161b_4	4 values : NA|No|Yes|DK/ NA	Delete	
+ER161b_5	4 values : NA|No|Yes|DK/ NA	Delete	
+ER161b_6	4 values : NA|No|Yes|DK/ NA	Delete	
+ER161b_7	4 values : NA|No|Yes|DK/ NA	Delete	
+ER162_1	4 values : NA|No|Yes|DK/ NA	Delete	
+ER162_2	4 values : NA|No|Yes|DK/ NA	Delete	
+ER162_3	4 values : NA|No|DK/ NA|Yes	Delete	
+ER162_4	4 values : NA|Yes|No|DK/ NA	Delete	
+ER200	4 values : NA|Yes|No|DK/ NA	Delete	
+ER202	5 values : NA|Large impact|Some impact|DK/ NA|Practic...	Delete	
+ER203_1	4 values : NA|No|DK/ NA|Yes	Delete	
+ER203_2	4 values : NA|No|DK/ NA|Yes	Delete	
+ER203_3	4 values : NA|Yes|No|DK/ NA	Delete	
+ER205	4 values : NA|Yes|DK/ NA|No	Delete	
+ER207	4 values : NA|Yes|No|DK/ NA	Delete	
+ER209	4 values : NA|Yes|No|DK/ NA	Delete	
+ER210	5 values : NA|Yes|Only partly|No|DK/ NA	Delete	
+ER211	4 values : NA|DK/ NA|Yes|No	Delete	
+ER213_1	4 values : NA|No|DK/ NA|Yes	Delete	
+ER213_2	4 values : NA|No|Yes|DK/ NA	Delete	
+ER213_3	4 values : NA|No|DK/ NA|Yes	Delete	
+ER213_4	4 values : NA|No|Yes|DK/ NA	Delete	
+ER214	6 values : NA|Quite high|Quite low|Very high|Very low...	Delete	
+ER215_1	5 values : NA|Agree|Neither agree nor disagree|Disagr...	Delete	
+ER215_2	5 values : NA|Agree|Disagree|Neither agree nor disagr...	Delete	
+ER215_3	5 values : NA|Agree|Neither agree nor disagree|Disagr...	Delete	
+ER250_1	5 values : NA|DK/NA|Major concern|Some concern|No con...	Delete	
+ER250_2	5 values : NA|Major concern|Some concern|No concern|D...	Delete	
+ER250_3	5 values : NA|No concern|Some concern|Major concern|D...	Delete	
+ER250_4	5 values : NA|Major concern|Some concern|DK/NA|No con...	Delete	
+ER250_5	5 values : NA|Major concern|Some concern|No concern|D...	Delete	
+ER250_6	5 values : NA|No concern|Some concern|Major concern|D...	Delete	
+ER250_7	5 values : NA|Some concern|No concern|Major concern|D...	Delete	
+ER252_1	4 values : NA|Yes|No|DK/ NA	Delete	
+ER252_2	4 values : NA|No|Yes|DK/ NA	Delete	
+ER252_3	4 values : NA|No|DK/ NA|Yes	Delete	
+ER252_4	4 values : NA|No|Yes|DK/ NA	Delete	
+ER252_5	4 values : NA|No|Yes|DK/ NA	Delete	
+ER252_6	4 values : NA|No|DK/ NA|Yes	Delete	
+ER252_7	4 values : NA|No|Yes|DK/ NA	Delete	
+ER252_8	4 values : NA|Yes|No|DK/ NA	Delete	
+ER252_9	4 values : NA|No|Yes|DK/ NA	Delete	
+ER252_10	4 values : NA|No|Yes|DK/ NA	Delete	
+ER300_1	4 values : NA|Yes|No|DK/ NA	Delete	
+ER300_2	4 values : NA|No|Yes|DK/ NA	Delete	
+ER300_3	4 values : NA|Yes|No|DK/ NA	Delete	
+ER300_4	4 values : NA|Yes|No|DK/ NA	Delete	
+ER300_5	4 values : NA|Yes|No|DK/ NA	Delete	
+ER300_6	4 values : NA|Yes|No|DK/ NA	Delete	
+ER301_1	6 values : NA|Quite effective|Quite ineffective|Very ...	Delete	
+ER301_2	6 values : NA|Quite effective|Very effective|Very ine...	Delete	
+ER301_3	6 values : NA|Quite effective|DK/ NA|Very effective|Q...	Delete	
+ER301_4	6 values : NA|Quite ineffective|Very effective|Quite ...	Delete	
+ER301_5	6 values : NA|Quite effective|Very effective|Quite in...	Delete	
+ER301_6	6 values : NA|Quite effective|Very effective|Quite in...	Delete	
+ER303	4 values : NA|DK/ NA|No|Yes	Delete	
+ER308	4 values : NA|No|Yes|DK/ NA	Delete	
+ER309	4 values : NA|Yes|No|DK/ NA	Delete	
+ER310	4 values : NA|No|DK/ NA|Yes	Delete	
+ER400	5 values : NA|More difficult|DK/ NA|No difference|Les...	Delete	
+ER402	6 values : NA|Quite willing|DK/ NA|Very willing|Very ...	Delete	
+ER403	4 values : NA|Yes|DK/ NA|No	Delete	
+size_5	5 values : 50 to 249|10 to 19|20 to 49|250 to 499|500 +	Delete	
+sec3	3 values : Private Services|Producing Industries|Publ...	Subset	
+rev1_1di	"> 13 values, count: 13 class:  factor . First three distinct values :  Nace K|Nace D|Nace G"	Delete	
+country	"> 13 values, count: 31 class:  factor . First three distinct values :  AT|BE|BG"	Delete	
+size_10	10 values : 50 to 99|10 to 19|20 to 49|150 to 199|300 ...	Delete	
+HSR_exist	2 values : yes|no	Delete	
+HSR_int	2 values : no|yes	Delete	
+MM400all	8 values : 20% to less than 40%|60% to less than 80%|...	Delete	
+MM401all	8 values : Less than 20%|None at all|20% to less than...	Delete	
+est_wei1	"> 13 values, count: 1127 class:  numeric . First three distinct values :  0.22589|1.15732|0.43093"	Delete	
+est_wei2	"> 13 values, count: 1146 class:  numeric . First three distinct values :  26.15865|133.87224|49.84732"	Weight	
+emp_wei1	"> 13 values, count: 862 class:  numeric . First three distinct values :  0.37389|0.27407|0.26478"	Delete	
+emp_wei2	"> 13 values, count: 864 class:  numeric . First three distinct values :  1952.13782|1430.96924|1382.47949"	Delete	
+country2	"> 13 values, count: 31 class:  factor . First three distinct values :  = 'AT'|= 'BE'|= 'BG'"	Delete	
+size_4	4 values : 50 to 249|10 to 19|20 to 49|250 +	Subset	
+EU27	2 values : Yes|No	Delete	
+country3	"> 13 values, count: 31 class:  factor . First three distinct values :  Austria|Belgium|Bulgaria"	CountryName	
+MM355all	4 values : Yes|No|No answer|NA	Question	

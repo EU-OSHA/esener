@@ -1,0 +1,181 @@
+analyseSPSSColumns
+       survey, fileNameToAppend = step0.output.file.name
+        Creates an xls containing all columns as rows so as to specify their type and a text overview related to their distinct values to aiding a user. As this output is more user friendly it is used instead of identifySPSSColumns
+
+changeOrderOfEnhancedColumns
+       data
+clearIndex
+       value
+clearWhiteSpaces
+       text
+convertMRQSurveyToStatistics
+       survey
+       NA
+
+convertSurveyToStatistics
+       survey
+       NA
+
+countriesToIndexedPHPArray
+       countries
+createDVTSurveyFolders
+       survey
+crossCountryCountVisualizations
+        survey
+crossValidateXLSRows
+       file.A, file.B, columns = c("EntryType","Column", "Value")
+        generic function to evaluate that all entries of A exist for B for a desired number of columns
+
+euBarsCountVisualizations
+        survey
+generateQuestionsTranslations
+       survey, fileNameToAppend = step2.questions.output.file.name
+        Creates an xls containing all question column names to be translated. Web version, Full version, note
+
+generateSubstitutableColumnValues
+       survey, fileNameToAppend = step1.output.file.name
+        Creates an xls containing all distinct values per substitutable columns
+
+generateValuesTranslations
+       survey, fileNameToAppend = step2.values.output.file.name
+        Creates an xls containing all distinct values per answers, subsets and subset values
+
+getIdentifiedColumnTypes
+       survey
+getSPSSLabels
+       survey
+getSurveyAllTranslatedValue
+       survey, locale
+getSurveyFolder
+       survey
+getSurveyTranslatedQuestions
+       survey, locale
+getSurveyTranslatedValues
+       survey, locale
+heatMapCountVisualizations
+        survey
+inCountryCountVisualizations
+        survey
+isAvailableTranslationsValid
+       survey
+        validates all provided localization files if they are valid
+
+isIdentifiedSPSSColumnsValid
+       survey, survey.data = ""
+        Validation of the input file. Validates for: Valid Column Types, Question exists, Subset exists, Country_code or Country_Name exists, Country_code or if Country_Name values are known.
+
+isQuestionMean
+       survey, question.column.name
+isQuestionsLocalizationfileValid
+       localization.file
+        validates the provided localization file if it is valid
+
+isQuestionsLocalizationfilesValid
+       localization.files
+        validates all provided localization files if they are valid
+
+isValuesLocalizationfileValid
+       localization.file
+        validates the provided localization file if it is valid
+
+isValuesLocalizationfilesValid
+       localization.files
+        validates all provided localization files if they are valid
+
+listAvailableTranslations
+       survey
+loadDVSvaluesToTranslate
+       
+loadDVTvaluesToTranslate
+       
+loadDataFrame
+       file
+loadMRQSurveyStatistics
+       survey
+loadRefinedMRQSurvey
+       survey
+loadRefinedSurvey
+       survey
+loadSPSSSurvey
+       survey, to.data.frame = FALSE
+loadSurveyStatistics
+       survey
+prePendZeroInColumnXLSUpdate
+       file.name, column
+prePendZeroInNumber
+       data
+prePendZeroInNumberDot
+       data
+prePendZeroInNumberDotColumnXLSUpdate
+       file.name, column
+       
+ to update translation
+
+prependZeroInDataframeColumn
+       data, column
+questionAnswersToList
+       question, valid.combinations
+questionsAnswersToIndexedPHPArray
+       valid.combinations
+readXls
+       file
+refineSurveyData
+       survey
+       NA
+
+replaceEquote
+       result
+replaceSingleQuote
+       result
+retainWildCharPart
+       vector.to.filter, pattern.with.wildchar
+        retains the wildchar part from every vector element given the pattern.with.wildchar
+
+saveDataFrame
+       data, file
+saveRefinedMRQSurvey
+       survey, data
+saveRefinedSurvey
+       survey, data
+smartSoundOrderingBy
+       data, columns, sql = "select * from 'data' "
+smartSoundOrderingByAllFiles
+       
+smartSoundOrderingByXLSUpdate
+       file.name, columns
+sortQuestionsLocalizationfile
+       localization.file
+        sorts the values of a localization file
+
+standardiseMRQStatisticsAndMergeWithStandardStats
+       survey
+standarizeSubstituteColumnsValues
+       survey
+standarizeXLSColumnValues
+       output.file.name, columnToStandarize
+subsetsSubsetValuesToList
+       subset, valid.combinations
+subsetsToIndexedPHPArray
+       valid.combinations
+surveyToPHPValidationCode
+       survey
+surveyUpdateDVT
+       survey, locale
+       NA
+
+toAlphaSmartNumerical
+       data
+       \\10 is \\1 the first capturing group followed by a 0
+
+toJavascriptArray
+       data, variable.name
+toPHPArray
+       data, variable.name, wrap.before = " = array(", wrap.after = ";", before = "\n\t\tarray(", after = ")")
+toUrlValue
+       value
+trimIfMoreThan
+       text, maxSize = 45, toAppend = "..."
+updateValidationLayer
+       survey
+writeXls
+       data, file

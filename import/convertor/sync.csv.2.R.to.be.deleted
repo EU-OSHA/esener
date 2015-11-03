@@ -1,0 +1,144 @@
+##### these functions are provided by the import process
+
+readXls <- function(file) {
+	return(read.csv(file = file, head = TRUE, sep = "\t"))
+}
+
+writeDataInCSV <- function(data, file) {
+	write.table(data, file, sep = "\t", na = "", dec = ",", row.names = F)
+}
+
+#####
+
+syncCSVby <- function(sourceA, sourceB, columnKeys = c(), outputFile) {
+	#syncs two csv files by the columnKeys.
+	#for every entry that exists in a and b the values if b are used
+	#for every entry that exists only in a the values of a are used
+
+	if (!file.exists(sourceA)) 
+		print("First source file does not exist in the directory") else if (!file.exists(sourceB)) 
+		print("Second source file does not exist in the directory") else if (length(columnKeys) == 0) 
+		printf("No key columns are given") else {
+		data1 <- readXls(sourceA)
+		data2 <- readXls(sourceB)
+
+		data1$key <- ""
+		for (j in 1:length(columnKeys)) {
+			data1$key <- paste(data1$key, data1[, columnKeys[j]], sep = "")
+		}
+
+
+		data2$key <- ""
+		for (j in 1:length(columnKeys)) {
+			data2$key <- paste(data2$key, data2[, columnKeys[j]], sep = "")
+		}
+
+		domains.names <- names(data2)
+		select.columns.2ndarray <- ""
+		for (i in 1:length(domains.names)) {
+			column.temp <- paste("data2.", domains.names[i], sep = "")
+			if (i > 1) {
+				select.columns.2ndarray <- paste(select.columns.2ndarray, column.temp, 
+					sep = ",")
+			} else if (i == 1) {
+				select.columns.2ndarray <- paste(select.columns.2ndarray, column.temp, 
+					sep = "")
+			}
+		}
+
+		domains.names <- names(data1)
+		select.columns.1starray <- ""
+		for (i in 1:length(domains.names)) {
+			column.temp <- paste("data1.", domains.names[i], sep = "")
+			if (i > 1) {
+				select.columns.1starray <- paste(select.columns.1starray, column.temp, 
+					sep = ",")
+			} else if (i == 1) {
+				select.columns.1starray <- paste(select.columns.1starray, column.temp, 
+					sep = "")
+			}
+		}
+		
+		sql.query <- paste("select ", select.columns.1starray, " from data1 left outer join data2 on data1.key = data2.key")
+		
+		data.1ST.rest <- sqldf(sql.query)
+		
+		sql.query <- paste("select ", select.columns.2ndarray, "from data1 inner join data2 on data1.key = data2.key")
+		
+		data.in.both <- sqldf(sql.query)
+		
+		if (sourceA == "1STEQLS.translate.values.XX.xls") {
+			#changing the TranslatedValue in the xls files
+			data.1ST.rest[data.1ST.rest$Column == "survey", ][, 4] <- gsub("2012", 
+				"2003", as.character(data2[data2$Column == "survey", ][, 4]))
+		}
+
+		if (nrow(data.1ST.rest) != nrow(data.in.both)) {
+			error.message <- paste("There are ", as.character(nrow(data.1ST.rest) - 
+				nrow(data.in.both)), " rows that existed in the ", sourceA, " file but not in the ", 
+				sourceB)
+			print(error.message)
+			print("The rows that existed only in the old file are the below:")
+			rows.only.old <- sqldf("select * from 'data.1ST.rest' as old where old.key not in (select key from 'data.in.both') ")
+			rows.only.old$key <- NULL
+			
+			for (i in 1:nrow(rows.only.old)) {
+				row.all.columns <- ""
+				for (j in 1:ncol(rows.only.old)) {
+					if (j > 1) {
+					row.all.columns <- paste(row.all.columns, rows.only.old[i, j], 
+						sep = " , ")
+					} else if (j == 1) {
+					row.all.columns <- paste(row.all.columns, rows.only.old[i, j], 
+						sep = "")
+					}
+				}
+				print(row.all.columns)
+			}
+
+			data.in.both$key <- NULL	#dropping the useless anymore column
+			data.final <- rbind(data.in.both, rows.only.old)	#adding the rows that existed only in the old file
+			
+			if (!file.exists(outputFile)) 
+				file.create(outputFile, showWarnings = TRUE)
+
+			writeDataInCSV(data.final, outputFile)
+
+		} else {
+			data.in.both$key <- NULL	#dropping the useless anymore column
+			if (!file.exists(outputFile)) 
+				file.create(outputFile, showWarnings = TRUE)
+			writeDataInCSV(data.in.both, outputFile)
+		}
+	}
+
+}
+
+## custom code
+
+syncSurveyTranslationsFiles <- function(languages = c()) {
+	# retains the entries that exist both in sourceB and in sourceA files.
+	if (length(languages) == 0) {
+		print("No language was given")
+	} else {
+		for (i in 1:length(languages)) {
+			file.old3.name <- paste("3RDEQLS.translated.values.", languages[i], ".xls", 
+				sep = "")
+			file.old1.name <- "1STEQLS.translate.values.XX.xls"
+			file.new.name <- paste("1STEQLS.translated.values.", languages[i], ".xls", 
+				sep = "")
+			Fill_Empty_Columns(file.old1.name, file.old3.name, columnKeys = c("EntryType", 
+				"Column", "Value"), file.new.name)
+
+			file.old3.name <- paste("3RDEQLS.translated.questions.", languages[i], 
+				".xls", sep = "")
+			file.old1.name <- "1STEQLS.translate.questions.XX.xls"
+			file.new.name <- paste("1STEQLS.translated.questions.", languages[i], 
+				".xls", sep = "")
+
+			Fill_Empty_Columns(file.old1.name, file.old3.name, columnKeys = c("QuestionCode"), 
+				file.new.name)
+		}
+	}
+}
+

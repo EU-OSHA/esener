@@ -1,0 +1,348 @@
+EntryType	Column	Value	TranslatedValue
+Answer	Q150_1	1. Yes	1. Да
+Answer	Q150_1	2. No	2. Не
+Answer	Q150_2	1. Yes	1. Да
+Answer	Q150_2	2. No	2. Не
+Answer	Q150_3	1. Yes	1. Да
+Answer	Q150_3	2. No	2. Не
+Answer	Q150_4	1. Yes	1. Да
+Answer	Q150_4	2. No	2. Не
+Answer	Q150_5	1. Yes	1. Да
+Answer	Q150_5	2. No	2. Не
+Answer	Q155	2. No	2. Не
+Answer	Q155	1. Yes	1. Да
+Answer	Q155	"3. Yes, but only to some types of employees"	"3. Да, но само на некои видови работен кадар"
+Answer	Q156	1. Yes	1. Да
+Answer	Q156	2. No	2. Не
+Answer	Q158_1	1. Yes	1. Да
+Answer	Q158_1	2. No	2. Не
+Answer	Q158_2	1. Yes	1. Да
+Answer	Q158_2	2. No	2. Не
+Answer	Q158_3	1. Yes	1. Да
+Answer	Q158_3	2. No	2. Не
+Answer	Q158_4	1. Yes	1. Да
+Answer	Q158_4	2. No	2. Не
+Answer	Q160	1. Yes	1. Да
+Answer	Q160	2. No	2. Не
+Answer	Q165	1. Yes	1. Да
+Answer	Q165	2. No	2. Не
+Answer	Q166_1	1. Yes	1. Да
+Answer	Q166_1	2. No	2. Не
+Answer	Q166_2	1. Yes	1. Да
+Answer	Q166_2	2. No	2. Не
+Answer	Q166_3	1. Yes	1. Да
+Answer	Q166_3	2. No	2. Не
+Answer	Q166_4	1. Yes	1. Да
+Answer	Q166_4	2. No	2. Не
+Answer	Q200_1	1. Yes	1. Да
+Answer	Q200_1	2. No	2. Не
+Answer	Q200_2	1. Yes	1. Да
+Answer	Q200_2	2. No	2. Не
+Answer	Q200_3	1. Yes	1. Да
+Answer	Q200_3	2. No	2. Не
+Answer	Q200_4	1. Yes	1. Да
+Answer	Q200_4	2. No	2. Не
+Answer	Q200_5	1. Yes	1. Да
+Answer	Q200_5	2. No	2. Не
+Answer	Q200_6	1. Yes	1. Да
+Answer	Q200_6	2. No	2. Не
+Answer	Q200_7	1. Yes	1. Да
+Answer	Q200_7	2. No	2. Не
+Answer	Q200_8	1. Yes	1. Да
+Answer	Q200_8	2. No	2. Не
+Answer	Q200_9	1. Yes	1. Да
+Answer	Q200_9	2. No	2. Не
+Answer	Q201_1	1. Yes	1. Да
+Answer	Q201_1	2. No	2. Не
+Answer	Q201_2	1. Yes	1. Да
+Answer	Q201_2	2. No	2. Не
+Answer	Q201_3	1. Yes	1. Да
+Answer	Q201_3	2. No	2. Не
+Answer	Q201_4	1. Yes	1. Да
+Answer	Q201_4	2. No	2. Не
+Answer	Q201_5	1. Yes	1. Да
+Answer	Q201_5	2. No	2. Не
+Answer	Q201_6	1. Yes	1. Да
+Answer	Q201_6	2. No	2. Не
+Answer	Q201_7	1. Yes	1. Да
+Answer	Q201_7	2. No	2. Не
+Answer	Q202_1	1. Yes	1. Да
+Answer	Q202_1	2. No	2. Не
+Answer	Q202_2	1. Yes	1. Да
+Answer	Q202_2	2. No	2. Не
+Answer	Q202_3	1. Yes	1. Да
+Answer	Q202_3	2. No	2. Не
+Answer	Q202_4	1. Yes	1. Да
+Answer	Q202_4	2. No	2. Не
+Answer	Q202_5	1. Yes	1. Да
+Answer	Q202_5	2. No	2. Не
+Answer	Q202_6	1. Yes	1. Да
+Answer	Q202_6	2. No	2. Не
+Answer	Q202_7	1. Yes	1. Да
+Answer	Q202_7	2. No	2. Не
+Answer	Q202_8	1. Yes	1. Да
+Answer	Q202_8	2. No	2. Не
+Answer	Q202_9	1. Yes	1. Да
+Answer	Q202_9	2. No	2. Не
+Answer	Q202_10	1. Yes	1. Да
+Answer	Q202_10	2. No	2. Не
+Answer	Q202_11	1. Yes	1. Да
+Answer	Q202_11	2. No	2. Не
+Answer	Q202_12	1. Yes	1. Да
+Answer	Q202_12	2. No	2. Не
+Answer	Q202_13	1. Yes	1. Да
+Answer	Q202_13	2. No	2. Не
+Answer	Q202_14	1. Yes	1. Да
+Answer	Q202_14	2. No	2. Не
+Answer	Q202_15	1. Yes	1. Да
+Answer	Q202_15	2. No	2. Не
+Answer	Q250	1. Yes	1. Да
+Answer	Q250	2. No	2. Не
+Answer	Q251	1. Conducted mainly by internal staff	1. Обично ги спроведува  внатрешен кадар
+Answer	Q251	2. Contracted mainly to external providers	2. Обично ги спроведуваат надворешни даватели на услуги со склучен договор
+Answer	Q251	3. Both about equally	3. И двете речиси подеднакво
+Answer	Q252_1	1. Yes	1. Да
+Answer	Q252_1	2. No	2. Не
+Answer	Q252_2	1. Yes	1. Да
+Answer	Q252_2	2. No	2. Не
+Answer	Q252_3	1. Yes	1. Да
+Answer	Q252_3	2. No	2. Не
+Answer	Q252_4	1. Yes	1. Да
+Answer	Q252_4	2. No	2. Не
+Answer	Q252_5	1. Yes	1. Да
+Answer	Q252_5	2. No	2. Не
+Answer	Q252_6	1. Yes	1. Да
+Answer	Q252_6	2. No	2. Не
+Answer	Q254gr	1. 2010	1. 2010
+Answer	Q254gr	2. 2011	2. 2011
+Answer	Q254gr	3. 2012	3. 2012
+Answer	Q254gr	4. 2013	4. 2013
+Answer	Q254gr	5. 2014	5. 2014
+Answer	Q254gr	6. before 2010	6. пред 2010 година
+Answer	Q254gr	7. don´t know	7. Не знае
+Answer	Q255	1. Yes	1. Да
+Answer	Q255	2. No	2. Не
+Answer	Q256_1	1. Yes	1. Да
+Answer	Q256_1	2. No	2. Не
+Answer	Q256_2	1. Yes	1. Да
+Answer	Q256_2	2. No	2. Не
+Answer	Q256_3	1. Yes	1. Да
+Answer	Q256_3	2. No	2. Не
+Answer	Q256_4	1. Yes	1. Да
+Answer	Q256_4	2. No	2. Не
+Answer	Q256_5	1. Yes	1. Да
+Answer	Q256_5	2. No	2. Не
+Answer	Q258b	1. Yes	1. Да
+Answer	Q258b	2. No	2. Не
+Answer	Q258b	3. That depends on the type of measures	3. Зависи за каков тип мерки се работи
+Answer	Q259	1. Yes	1. Да
+Answer	Q259	2. No	2. Не
+Answer	Q259	3. There are conflicting views about this	3. Постојат спротивставени мислења за тоа
+Answer	Q261_1	1. Yes	1. Да
+Answer	Q261_1	2. No	2. Не
+Answer	Q261_2	1. Yes	1. Да
+Answer	Q261_2	2. No	2. Не
+Answer	Q261_3	1. Yes	1. Да
+Answer	Q261_3	2. No	2. Не
+Answer	Q261_4	1. Yes	1. Да
+Answer	Q261_4	2. No	2. Не
+Answer	Q264_1	1. Major reason	1. Силна причина
+Answer	Q264_1	2. Minor reason	2. Слаба причина
+Answer	Q264_1	3. Not a reason	3. Никаква причина
+Answer	Q264_2	1. Major reason	1. Силна причина
+Answer	Q264_2	2. Minor reason	2. Слаба причина
+Answer	Q264_2	3. Not a reason	3. Никаква причина
+Answer	Q264_4	1. Major reason	1. Силна причина
+Answer	Q264_4	2. Minor reason	2. Слаба причина
+Answer	Q264_4	3. Not a reason	3. Никаква причина
+Answer	Q264_5	1. Major reason	1. Силна причина
+Answer	Q264_5	2. Minor reason	2. Слаба причина
+Answer	Q264_5	3. Not a reason	3. Никаква причина
+Answer	Q264_6	1. Major reason	1. Силна причина
+Answer	Q264_6	2. Minor reason	2. Слаба причина
+Answer	Q264_6	3. Not a reason	3. Никаква причина
+Answer	Q265_1	1. Major difficulty	1. Голема тешкотија
+Answer	Q265_1	2. Minor difficulty	2. Мала тешкотија
+Answer	Q265_1	3. Not a difficulty	3. Не е тешкотија
+Answer	Q265_2	1. Major difficulty	1. Голема тешкотија
+Answer	Q265_2	2. Minor difficulty	2. Мала тешкотија
+Answer	Q265_2	3. Not a difficulty	3. Не е тешкотија
+Answer	Q265_3	1. Major difficulty	1. Голема тешкотија
+Answer	Q265_3	2. Minor difficulty	2. Мала тешкотија
+Answer	Q265_3	3. Not a difficulty	3. Не е тешкотија
+Answer	Q265_4	1. Major difficulty	1. Голема тешкотија
+Answer	Q265_4	2. Minor difficulty	2. Мала тешкотија
+Answer	Q265_4	3. Not a difficulty	3. Не е тешкотија
+Answer	Q265_5	1. Major difficulty	1. Голема тешкотија
+Answer	Q265_5	2. Minor difficulty	2. Мала тешкотија
+Answer	Q265_5	3. Not a difficulty	3. Не е тешкотија
+Answer	Q265_6	1. Major difficulty	1. Голема тешкотија
+Answer	Q265_6	2. Minor difficulty	2. Мала тешкотија
+Answer	Q265_6	3. Not a difficulty	3. Не е тешкотија
+Answer	Q265_7	1. Major difficulty	1. Голема тешкотија
+Answer	Q265_7	2. Minor difficulty	2. Мала тешкотија
+Answer	Q265_7	3. Not a difficulty	3. Не е тешкотија
+Answer	Q300	1. Yes	1. Да
+Answer	Q300	2. No	2. Не
+Answer	Q301	1. Yes	1. Да
+Answer	Q301	2. No	2. Не
+Answer	Q302	1. Yes	1. Да
+Answer	Q302	2. No	2. Не
+Answer	Q303_1	1. Yes	1. Да
+Answer	Q303_1	2. No	2. Не
+Answer	Q303_2	1. Yes	1. Да
+Answer	Q303_2	2. No	2. Не
+Answer	Q303_3	1. Yes	1. Да
+Answer	Q303_3	2. No	2. Не
+Answer	Q303_4	1. Yes	1. Да
+Answer	Q303_4	2. No	2. Не
+Answer	Q304	1. Yes	1. Да
+Answer	Q304	2. No	2. Не
+Answer	Q304	3. Partly	3. Делумно
+Answer	Q305	2. No	2. Не
+Answer	Q305	1. Yes	1. Да
+Answer	Q306a_3	1. Yes	1. Да
+Answer	Q306a_3	2. No	2. Не
+Answer	Q306a_4	1. Yes	1. Да
+Answer	Q306a_4	2. No	2. Не
+Answer	Q306a_5	1. Yes	1. Да
+Answer	Q306a_5	2. No	2. Не
+Answer	Q306a_6	1. Yes	1. Да
+Answer	Q306a_6	2. No	2. Не
+Answer	Q307	1. Yes	1. Да
+Answer	Q307	2. No	2. Не
+Answer	Q308_1	1. Yes	1. Да
+Answer	Q308_1	2. No	2. Не
+Answer	Q308_2	1. Yes	1. Да
+Answer	Q308_2	2. No	2. Не
+Answer	Q308_3	1. Yes	1. Да
+Answer	Q308_3	2. No	2. Не
+Answer	Q308_4	1. Yes	1. Да
+Answer	Q308_4	2. No	2. Не
+Answer	Q350	3. Not at all	3. Никогаш
+Answer	Q350	2. Only when particular issues arise	2. Само кога ќе се појави некој проблем 
+Answer	Q350	1. Regularly	1. Редовно
+Answer	Q351	1. Often	1. Често
+Answer	Q351	3. Practically never	3. Речиси никогаш
+Answer	Q351	2. Sometimes	2. Понекогаш
+Answer	Q354	2. No	2. Не
+Answer	Q354	1. Yes	1. Да
+Answer	Q354	"3. Yes, but only some of them"	"3. Да,но само некои од нив"
+Answer	Q356_1	1. Yes	1. Да
+Answer	Q356_1	2. No	2. Не
+Answer	Q356_2	1. Yes	1. Да
+Answer	Q356_2	2. No	2. Не
+Answer	Q356_3	1. Yes	1. Да
+Answer	Q356_3	2. No	2. Не
+Answer	Q356_4	1. Yes	1. Да
+Answer	Q356_4	2. No	2. Не
+Answer	Q356_5	1. Yes	1. Да
+Answer	Q356_5	2. No	2. Не
+Answer	Q358	3. In some departments only	3. Само во некои сектори
+Answer	Q358	2. No	2. Не
+Answer	Q358	1. Yes	1. Да
+Subset	Sectorgrp	Sectorgrp	Сектор на активност
+Subset	Size	Size	Големина на установа
+SubsetValue	Sectorgrp	All	Сите
+SubsetValue	Sectorgrp	1. A	"1. Земјоделство, шумарство и риболов"
+SubsetValue	Sectorgrp	2. BDEF	"2. Градежништво, постапување со отпад, довод на вода и струја"
+SubsetValue	Sectorgrp	5. JKLMNS	"5. ИТ, финансии, недвижности и други технички научни активности или активности за лични услуги"
+SubsetValue	Sectorgrp	7. PQ	7. Образование и активности за човечко здравје и социјална работа
+SubsetValue	Sectorgrp	4. GHIR	"4. Трговија, транспорт, храна/снабдување и рекреативни активности"
+SubsetValue	Sectorgrp	6. O	6. Јавна администрација
+SubsetValue	Sectorgrp	3. C	3. Производство
+SubsetValue	Size	All	Сите
+SubsetValue	Size	1. 5 to 9	1. 5 до 9 вработени
+SubsetValue	Size	2. 10 to 49	2. 10 до 49 вработени
+SubsetValue	Size	3. 50-249	3. 50 до 249 вработени
+SubsetValue	Size	4. 250+	4. 250 или повеќе вработени
+_DVS	crossCountry	mean	над
+_DVS	crossCountry	percentage	
+_DVS	word	alertnotdis	Не може да се прикаже дијаграмот затоа што избраните податоци не се репрезентативни.
+_DVS	word	all	Сите
+_DVS	word	below	под
+_DVS	word	euonly	Само ЕУ
+_DVS	word	euonlytt	Функцијата ги филтрира податоците од земјите-членки на ЕУ
+_DVS	word	languages	Достапни јазици
+_DVS	word	mean	средно
+_DVS	word	ok	Во ред
+_DVS	word	percentage	процент
+_DVS	word	selectContent	Изберете содржина
+_DVS	word	visitURL	Посетете ја УРЛ
+_DVS	word	toCopy	Ctrl+C за да копирате
+_DVT	Label	answer	Одговор
+_DVT	Label	country	Земја
+_DVT	Label	countryB	Спореди со
+_DVT	Label	plot	Визуелизација
+_DVT	Label	question	Прашање
+_DVT	Label	subset	Од
+_DVT	Label	subsetValue	
+_DVT	Label	topic	Тема
+_DVT	Link	citeExport	Цитирај ја оваа визуелизација
+_DVT	Link	csvExport	Податоци (XLS)
+_DVT	Link	epsExport	Висока резолуција(EPS)
+_DVT	Link	htmlExport	ХТМЛ-страница со можност за вметнување
+_DVT	Link	nextQuest	Следно прашање
+_DVT	Link	pdfExport	PDF
+_DVT	Link	pngExport	Слика (ПНГ-формат)
+_DVT	Link	prevQuest	Претходно прашање
+_DVT	Link	svgExport	SVG
+_DVT	Link	toolUrlExport	Страница од УРЛ
+_DVT	Link	urlExport	Обележи ја оваа страница
+_DVT	Title	exportOptions	Извези визуелизација
+_DVT	Title	plotParameters	Избери прашање
+_DVT	Tooltip	crossCountry	Визуелизацијата го илустрира процентот на одговори или средната вредност на одговори за одредена група луѓе помеѓу две земји или европски просек по прашање.
+_DVT	Tooltip	euBars	Визуелизацијата го илустрира процентот на одговори или средната вредност на одговори по европска земја и низ сите европски земји по прашање.
+_DVT	Tooltip	heatMap	Визуелизацијата на мапа го илустрира процентот на одговори или средната вредност на одговори по прашање по европска земја.
+_DVT	Tooltip	inCountry	Визуелизацијата го илустрира процентот на одговори или средната вредност на одговори по прашање по група луѓе за една земја.
+_DVT	survey	esener04	#N/A
+_Selector	country	AL	Албанија
+_Selector	country	AT	Австрија
+_Selector	country	BA	Босна
+_Selector	country	BE	Белгија
+_Selector	country	BG	Бугарија
+_Selector	country	BY	Белорусија
+_Selector	country	CH	Швајцарија
+_Selector	country	CY	Кипар
+_Selector	country	CZ	Република Чешка
+_Selector	country	DE	Германија
+_Selector	country	DK	Данска
+_Selector	country	EE	Естонија
+_Selector	country	EL	Грција
+_Selector	country	ES	Шпанија
+_Selector	country	FI	Финска
+_Selector	country	FR	Франција
+_Selector	country	HR	Хрватска
+_Selector	country	HU	Унгарија
+_Selector	country	IE	Ирска
+_Selector	country	IS	Исланд
+_Selector	country	IT	Италија
+_Selector	country	LT	Литванија
+_Selector	country	LU	Луксембург
+_Selector	country	LV	Летонија
+_Selector	country	MD	Молдавија
+_Selector	country	ME	Црна Гора
+_Selector	country	MK	ПЈРМ
+_Selector	country	MT	Малта
+_Selector	country	NL	Холандија
+_Selector	country	NO	Норвешка
+_Selector	country	NONEU	Земји што не се членки на ЕУ
+_Selector	country	PL	Полска
+_Selector	country	PT	Португалија
+_Selector	country	RO	Романија
+_Selector	country	RS	Србија
+_Selector	country	SE	Шведска
+_Selector	country	SI	Словенија
+_Selector	country	SK	Словачка
+_Selector	country	TR	Турција
+_Selector	country	UA	Украина
+_Selector	country	UK	Обединето Кралство
+_Selector	country	XK	Косово
+_Selector	country	EUCC	Земји-кандидатки за влез во ЕУ
+_Selector	country	EuropeanUnion	Европска унија
+_Selector	exportType	csv	Прикажи табеларни податоци
+_Selector	plot	crossCountry	4. Национални споредби
+_Selector	plot	euBars	2. Дијаграм со ленти на ЕУ
+_Selector	plot	heatMap	1. Европска мапа
+_Selector	plot	inCountry	3. Дијаграм со ленти за нација
+_Selector	country	Kosovo under UNSCR 1244/99	Косово според УНХЦР 1244/99

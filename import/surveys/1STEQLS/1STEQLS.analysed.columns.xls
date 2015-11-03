@@ -1,0 +1,143 @@
+Column	Overview	Type	ColumnAs
+w5_EU28	1 values : NA	Delete	
+Y11_Q13a	1 values : NA	Delete	
+Y11_Q13b	1 values : NA	Delete	
+Y11_Q13c	1 values : NA	Delete	
+Y11_Q16	1 values : NA	Delete	
+Y11_Q19e	1 values : NA	Delete	
+Y11_Q19f	1 values : NA	Delete	
+Y11_Q20	1 values : NA	Delete	
+Y11_Q21a	1 values : NA	Delete	
+Y11_Q21b	1 values : NA	Delete	
+Y11_Q21c	1 values : NA	Delete	
+Y11_Q21d	1 values : NA	Delete	
+Y11_Q23a	1 values : NA	Delete	
+Y11_Q23b	1 values : NA	Delete	
+Y11_Q23c	1 values : NA	Delete	
+Y11_Q25f	1 values : NA	Delete	
+Y11_Q25g	1 values : NA	Delete	
+Y11_Q28a	1 values : NA	Delete	
+Y11_Q28b	1 values : NA	Delete	
+Y11_Q28c	1 values : NA	Delete	
+Y11_Q28d	1 values : NA	Delete	
+Y11_Q28e	1 values : NA	Delete	
+Y11_Q28f	1 values : NA	Delete	
+Y11_Q29a	1 values : NA	Delete	
+Y11_Q29b	1 values : NA	Delete	
+Y11_Q29c	1 values : NA	Delete	
+Y11_Q29d	1 values : NA	Delete	
+Y11_Q29e	1 values : NA	Delete	
+Y11_Q29f	1 values : NA	Delete	
+Y11_Q29g	1 values : NA	Delete	
+Y11_Q29h	1 values : NA	Delete	
+Y11_Q29i	1 values : NA	Delete	
+Y11_Q33a	1 values : NA	Delete	
+Y11_Q33b	1 values : NA	Delete	
+Y11_Q33c	1 values : NA	Delete	
+Y11_Q33d	1 values : NA	Delete	
+Y11_Q34a	1 values : NA	Delete	
+Y11_Q34b	1 values : NA	Delete	
+Y11_Q34c	1 values : NA	Delete	
+Y11_Q34d	1 values : NA	Delete	
+Y11_Q35a	1 values : NA	Delete	
+Y11_Q35b	1 values : NA	Delete	
+Y11_Q35c	1 values : NA	Delete	
+Y11_Q35d	1 values : NA	Delete	
+Y11_Q35e	1 values : NA	Delete	
+Y11_Q36a	1 values : NA	Delete	
+Y11_Q36b	1 values : NA	Delete	
+Y11_Q36c	1 values : NA	Delete	
+Y11_Q39a	1 values : NA	Delete	
+Y11_Q39b	1 values : NA	Delete	
+Y11_Q39c	1 values : NA	Delete	
+Y11_Q39d	1 values : NA	Delete	
+Y11_Q40h	1 values : NA	Delete	
+Y11_Q42	1 values : NA	Delete	
+Y11_Q46a	1 values : NA	Delete	
+Y11_Q46b	1 values : NA	Delete	
+Y11_Q46c	1 values : NA	Delete	
+Y11_Q47e	1 values : NA	Delete	
+Y11_Q50a	1 values : NA	Delete	
+Y11_Q50b	1 values : NA	Delete	
+Y11_Q50c	1 values : NA	Delete	
+Y11_Q50d	1 values : NA	Delete	
+Y11_Q50e	1 values : NA	Delete	
+Y11_Q50f	1 values : NA	Delete	
+Y11_Q51a	1 values : NA	Delete	
+Y11_Q51b	1 values : NA	Delete	
+Y11_Q51c	1 values : NA	Delete	
+Y11_Q51d	1 values : NA	Delete	
+Y11_Q51e	1 values : NA	Delete	
+Y11_Q53d	1 values : NA	Delete	
+Y11_Q53e	1 values : NA	Delete	
+Y11_Q53f	1 values : NA	Delete	
+Y11_Q57	1 values : NA	Delete	
+Y11_Q60c	1 values : NA	Delete	
+Y11_Q60d	1 values : NA	Delete	
+Y11_Q65	1 values : NA	Delete	
+Y11_Q66	1 values : NA	Delete	
+Y11_SocExIndex	1 values : NA	Delete	
+Y11_Q46d_WHO5	1 values : NA	Delete	
+Y11_Deprindex	1 values : NA	Delete	
+Y11_Accommproblems	1 values : NA	Delete	
+Y11_Q14a	1 values : NA	Delete	
+Y11_Q14b	1 values : NA	Delete	
+Y11_Q14c	1 values : NA	Delete	
+Y11_Q14d	1 values : NA	Delete	
+Y11_Disability	1 values : NA	Delete	
+Y11_PreferredWorkingHours	1 values : NA	Delete	
+Y11_Partnerprefhours	1 values : NA	Delete	
+w4	> 13 values, count: 22980 class:  numeric . First three distinct values :  0.34866|0.949866|0.782841	Delete	
+uniqueid	> 13 values, count: 43719 class:  character . First three distinct values :  AT1000001 |AT1000102 |AT1000304 	Delete	
+Y11_Country	> 13 values, count: 35 class:  factor . First three distinct values :  Austria|Belgium|Bulgaria	CountryName	
+Y11_Agecategory	6 values : 50-64|65+|25-34|35-49|18-24|NA	Subset	
+Y11_HH2a	3 values : Female|Male|NA	Subset	
+Y11_Incomequartiles_percapita	5 values : 1|NA|2|3|4	Subset	
+Y11_Q12a	8 values : NA|Less often/rarely|Several times a month...	Question	
+Y11_Q12b	8 values : NA|Less often/rarely|Never|Several times a...	Question	
+Y11_Q12c	8 values : NA|Less often/rarely|Never|Several times a...	Question	
+Y11_Q15	8 values : NA|(Don't know)|Very unlikely|Very likely|...	Question	
+Y11_Q18	9 values : Own without mortgage (i.e. without any loa...	Question	
+Y11_Q19a	5 values : No|Yes|(Don't know)|(Refusal)|NA	Question	
+Y11_Q19b	5 values : No|Yes|(Don't know)|(Refusal)|NA	Question	
+Y11_Q19c	5 values : No|Yes|(Don't know)|(Refusal)|NA	Question	
+Y11_Q19d	5 values : No|Yes|(Refusal)|(Don't know)|NA	Question	
+Y11_Q23d	5 values : No|Yes|(Don't know)|(Refusal)|NA	Question	
+Y11_Q24	> 13 values, count: 13 class:  factor . First three distinct values :  1 - you canﾒt be too careful|5|9	QuestionMean	
+Y11_Q25a	6 values : A lot of tension|Some tension|No tension|(...	Question	
+Y11_Q25b	6 values : Some tension|(Don't know)|A lot of tension...	Question	
+Y11_Q25c	6 values : Some tension|A lot of tension|No tension|(...	Question	
+Y11_Q25d	6 values : Some tension|A lot of tension|No tension|(...	Question	
+Y11_Q25e	6 values : A lot of tension|No tension|Some tension|(...	Question	
+Y11_Q30	> 13 values, count: 13 class:  factor . First three distinct values :  10 - very satisfied|8|9	QuestionMean	
+Y11_Q38	6 values : More than your fair share|Just about your ...	Question	
+Y11_Q40a	> 13 values, count: 13 class:  factor . First three distinct values :  2|7|10 - very satisfied	QuestionMean	
+Y11_Q40b	> 13 values, count: 13 class:  factor . First three distinct values :  NA|9|8	QuestionMean	
+Y11_Q40c	> 13 values, count: 13 class:  factor . First three distinct values :  3|7|9	QuestionMean	
+Y11_Q40d	> 13 values, count: 13 class:  factor . First three distinct values :  7|8|9	QuestionMean	
+Y11_Q40e	> 13 values, count: 13 class:  factor . First three distinct values :  10 - very satisfied|9|8	QuestionMean	
+Y11_Q40f	> 13 values, count: 13 class:  factor . First three distinct values :  4|2|8	QuestionMean	
+Y11_Q40g	> 13 values, count: 13 class:  factor . First three distinct values :  8|10 - very satisfied|9	QuestionMean	
+Y11_Q41	> 13 values, count: 13 class:  factor . First three distinct values :  10 - very happy|7|9	QuestionMean	
+Y11_Q47a	7 values : Very difficult|Not difficult at all|A litt...	Question	
+Y11_Q47b	7 values : A little difficult|Not difficult at all|Ve...	Question	
+Y11_Q47c	7 values : Very difficult|A little difficult|Not diff...	Question	
+Y11_Q47d	7 values : Not difficult at all|(Not applicable/ neve...	Question	
+Y11_Q52	> 13 values, count: 109 class:  numeric . First three distinct values :  NA|4|2	QuestionMean	
+Y11_Q53a	> 13 values, count: 13 class:  factor . First three distinct values :  9|7|10 - very high quality	QuestionMean	
+Y11_Q53b	> 13 values, count: 13 class:  factor . First three distinct values :  8|Don't know|6	QuestionMean	
+Y11_Q53c	> 13 values, count: 13 class:  factor . First three distinct values :  4|7|6	QuestionMean	
+Y11_Q53g	> 13 values, count: 13 class:  factor . First three distinct values :  Don't know|8|9	QuestionMean	
+Y11_Q58	9 values : With difficulty|With some difficulty|Easil...	Question	
+Y11_Q59a	5 values : Yes, can afford if want|No, cannot afford ...	Question	
+Y11_Q59b	5 values : No, cannot afford it|(Don't know)|Yes, can...	Question	
+Y11_Q59c	5 values : No, cannot afford it|Yes, can afford if wa...	Question	
+Y11_Q59d	5 values : Yes, can afford if want|No, cannot afford ...	Question	
+Y11_Q59e	5 values : Yes, can afford if want|No, cannot afford ...	Question	
+Y11_Q59f	5 values : Yes, can afford if want|No, cannot afford ...	Question	
+Y11_Q60a	5 values : No|(Refusal)|Yes|(Don't know)|NA	Question	
+Y11_Q60b	5 values : No|Yes|(Refusal)|(Don't know)|NA	Question	
+Y11_Q39d_stress	4 values : NA|No or weak conflict|Either work or home...	Question	
+Y11_Q22_Volunteering	3 values : Volunteers occasionally|Does not volunteer...	Question	
+Wave	1 values : 1st EQLS (2003)	Delete	
+w5_EU27	> 13 values, count: 10274 class:  numeric . First three distinct values :  0.178559466|0.224534601|0.438717923	Weight	

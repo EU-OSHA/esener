@@ -1,0 +1,45 @@
+CountryCode	CountryName	CountryEUStatus
+AT	Austria	EuropeanUnion
+BE	Belgium	EuropeanUnion
+BG	Bulgaria	EuropeanUnion
+CY	Cyprus	EuropeanUnion
+CZ	Czech Republic	EuropeanUnion
+DK	Denmark	EuropeanUnion
+EE	Estonia	EuropeanUnion
+FI	Finland	EuropeanUnion
+FR	France	EuropeanUnion
+DE	Germany	EuropeanUnion
+EL	Greece	EuropeanUnion
+HU	Hungary	EuropeanUnion
+IE	Ireland	EuropeanUnion
+IT	Italy	EuropeanUnion
+LV	Latvia	EuropeanUnion
+LT	Lithuania	EuropeanUnion
+LU	Luxembourg	EuropeanUnion
+MT	Malta	EuropeanUnion
+NL	Netherlands	EuropeanUnion
+PL	Poland	EuropeanUnion
+PT	Portugal	EuropeanUnion
+RO	Romania	EuropeanUnion
+SK	Slovakia	EuropeanUnion
+SI	Slovenia	EuropeanUnion
+ES	Spain	EuropeanUnion
+SE	Sweden	EuropeanUnion
+UK	United Kingdom	EuropeanUnion
+HR	Croatia	EuropeanUnion
+AL	Albania	EUCC
+MK	FYROM	EUCC
+IS	Iceland	EUCC
+XK	Kosovo	EUCC
+ME	Montenegro	EUCC
+RS	Serbia	EUCC
+TR	Turkey	EUCC
+BY	Belarus	NONEU
+BA	Bosnia	NONEU
+MD	Moldova	NONEU
+NO	Norway	EUCC
+CH	Switzerland	EUCC
+UA	Ukraine	NONEU
+NONEU	Non EU countries	EU1
+EUCC	EU Candidate Countries	EU2
+EuropeanUnion	European Union	EU3

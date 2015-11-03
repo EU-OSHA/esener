@@ -1,0 +1,128 @@
+Column	Overview	Type	ColumnAs
+Respid	"> 13 values, count: 49320 class:  numeric . First three distinct values :  1|2|3"	Delete	
+country	"> 13 values, count: 36 class:  factor . First three distinct values :  Netherlands|Belgium|Germany"	CountryName	
+estwei	"> 13 values, count: 2509 class:  numeric . First three distinct values :  1.1936|0.679|1.7522"	Delete	
+estprop	"> 13 values, count: 2350 class:  numeric . First three distinct values :  1.034|0.5882|1.5179"	Weight	
+estex	"> 13 values, count: 2691 class:  numeric . First three distinct values :  139.8319|79.5498|205.2848"	Delete	
+empwei	"> 13 values, count: 2543 class:  numeric . First three distinct values :  0.6889|0.4482|0.3484"	Delete	
+empprop	"> 13 values, count: 2455 class:  numeric . First three distinct values :  0.7018|0.4566|0.3549"	Delete	
+empex	"> 13 values, count: 2677 class:  numeric . First three distinct values :  2607.4019|1696.3959|1318.6462"	Delete	
+Internr	"> 13 values, count: 785 class:  numeric . First three distinct values :  0|11008387|11008332"	Delete	
+Mode	2 values : CAWI|CATI	Delete	
+Nace1	"> 13 values, count: 19 class:  factor . First three distinct values :  G|C|M"	Delete	
+Nace1_16	"> 13 values, count: 16 class:  factor . First three distinct values :  G|C|M"	Delete	
+Sectorgrp	7 values : GHIR|C|JKLMNS|O|BDEF|PQ|A	Subset	
+Size	4 values : 10 to 49|5 to 9|250+|50-249	Subset	
+EU28	2 values : yes|no	Delete	
+Esener1	2 values : 10+ and no A|NA	Delete	
+Adr_scrcntr	2 values : non-screening countries|screening countries	Delete	
+Adr_scrint	3 values : first interview/main address|second addres...	Delete	
+Q150_1	3 values : Yes|No|NA	Question	
+Q150_2	3 values : Yes|No|NA	Question	
+Q150_3	3 values : Yes|No|NA	Question	
+Q150_4	3 values : Yes|No|NA	Question	
+Q150_5	3 values : Yes|No|NA	Question	
+Q155	"4 values : Yes|No|Yes, but only to some types of empl..."	Question	
+Q156	3 values : No|Yes|NA	Question	
+Q158_1	3 values : Yes|No|NA	Question	
+Q158_2	3 values : Yes|No|NA	Question	
+Q158_3	3 values : No|Yes|NA	Question	
+Q158_4	3 values : Yes|No|NA	Question	
+Q160	3 values : Yes|No|NA	Question	
+Q165	3 values : Yes|No|NA	Question	
+Q166_1	3 values : Yes|No|NA	Question	
+Q166_2	3 values : No|Yes|NA	Question	
+Q166_3	3 values : No|Yes|NA	Question	
+Q166_4	3 values : No|Yes|NA	Question	
+Q200_1	3 values : Yes|No|NA	Question	
+Q200_2	3 values : Yes|No|NA	Question	
+Q200_3	3 values : No|Yes|NA	Question	
+Q200_4	3 values : Yes|No|NA	Question	
+Q200_5	3 values : Yes|No|NA	Question	
+Q200_6	3 values : Yes|No|NA	Question	
+Q200_7	3 values : Yes|No|NA	Question	
+Q200_8	3 values : No|Yes|NA	Question	
+Q200_9	3 values : No|Yes|NA	Question	
+Q201_1	3 values : No|Yes|NA	Question	
+Q201_2	3 values : No|Yes|NA	Question	
+Q201_3	3 values : No|Yes|NA	Question	
+Q201_4	3 values : No|Yes|NA	Question	
+Q201_5	3 values : No|Yes|NA	Question	
+Q201_6	3 values : No|Yes|NA	Question	
+Q201_7	3 values : No|Yes|NA	Question	
+Q202_1	3 values : No|NA|Yes	Question	
+Q202_2	3 values : No|NA|Yes	Question	
+Q202_3	3 values : NA|No|Yes	Question	
+Q202_4	3 values : No|NA|Yes	Question	
+Q202_5	3 values : No|Yes|NA	Question	
+Q202_6	3 values : No|NA|Yes	Question	
+Q202_7	3 values : No|NA|Yes	Question	
+Q202_8	3 values : NA|No|Yes	Question	
+Q202_9	3 values : NA|No|Yes	Question	
+Q202_10	3 values : NA|No|Yes	Question	
+Q202_11	3 values : NA|Yes|No	Question	
+Q202_12	3 values : NA|No|Yes	Question	
+Q202_13	3 values : NA|No|Yes	Question	
+Q202_14	3 values : NA|No|Yes	Question	
+Q202_15	3 values : NA|No|Yes	Question	
+Q250	3 values : Yes|No|NA	Question	
+Q251	4 values : Both about equally|NA|Conducted mainly by ...	Question	
+Q252_1	3 values : Yes|NA|No	Question	
+Q252_2	3 values : NA|Yes|No	Question	
+Q252_3	3 values : Yes|NA|No	Question	
+Q252_4	3 values : Yes|NA|No	Question	
+Q252_5	3 values : Yes|NA|No	Question	
+Q252_6	3 values : Yes|NA|No	Question	
+Q254	"> 13 values, count: 25 class:  numeric . First three distinct values :  2014|NA|9998"	Delete	
+Q254gr	8 values : 2014|NA|don´t know|2012|2011|2013|before 2...	Question	
+Q255	3 values : Yes|NA|No	Question	
+Q256_1	3 values : Yes|NA|No	Question	
+Q256_2	3 values : NA|Yes|No	Question	
+Q256_3	3 values : Yes|NA|No	Question	
+Q256_4	3 values : NA|Yes|No	Question	
+Q256_5	3 values : Yes|NA|No	Question	
+Q258b	4 values : That depends on the type of measures|NA|Ye...	Question	
+Q259	4 values : Yes|NA|There are conflicting views about t...	Question	
+Q261_1	3 values : NA|Yes|No	Question	
+Q261_2	3 values : NA|Yes|No	Question	
+Q261_3	3 values : NA|No|Yes	Question	
+Q261_4	3 values : NA|Yes|No	Question	
+Q264_1	4 values : Major reason|Minor reason|Not a reason|NA	Question	
+Q264_2	4 values : Major reason|Minor reason|Not a reason|NA	Question	
+Q264_4	4 values : Major reason|Not a reason|Minor reason|NA	Question	
+Q264_5	4 values : Major reason|Not a reason|Minor reason|NA	Question	
+Q264_6	4 values : Major reason|Minor reason|Not a reason|NA	Question	
+Q265_1	4 values : Major difficulty|Not a difficulty|Minor di...	Question	
+Q265_2	4 values : Major difficulty|Minor difficulty|Not a di...	Question	
+Q265_3	4 values : Major difficulty|Not a difficulty|Minor di...	Question	
+Q265_4	4 values : Major difficulty|Minor difficulty|Not a di...	Question	
+Q265_5	4 values : Major difficulty|Not a difficulty|Minor di...	Question	
+Q265_6	4 values : Minor difficulty|Major difficulty|Not a di...	Question	
+Q265_7	4 values : Minor difficulty|Major difficulty|Not a di...	Question	
+Q300	3 values : NA|Yes|No	Question	
+Q301	3 values : NA|Yes|No	Question	
+Q302	3 values : NA|Yes|No	Question	
+Q303_1	3 values : Yes|No|NA	Question	
+Q303_2	3 values : Yes|No|NA	Question	
+Q303_3	3 values : No|Yes|NA	Question	
+Q303_4	3 values : Yes|No|NA	Question	
+Q304	4 values : No|Yes|NA|Partly	Question	
+Q305	3 values : Yes|NA|No	Question	
+Q306a_3	3 values : NA|Yes|No	Question	
+Q306a_4	3 values : NA|No|Yes	Question	
+Q306a_5	3 values : NA|No|Yes	Question	
+Q306a_6	3 values : NA|Yes|No	Question	
+Q307	3 values : Yes|No|NA	Question	
+Q308_1	3 values : Yes|NA|No	Question	
+Q308_2	3 values : Yes|NA|No	Question	
+Q308_3	3 values : Yes|No|NA	Question	
+Q308_4	3 values : Yes|No|NA	Question	
+Q350	4 values : Regularly|NA|Only when particular issues a...	Question	
+Q351	4 values : Sometimes|NA|Practically never|Often	Question	
+Q354	"4 values : NA|Yes|Yes, but only some of them|No"	Question	
+Q356_1	3 values : No|Yes|NA	Question	
+Q356_2	3 values : NA|Yes|No	Question	
+Q356_3	3 values : No|NA|Yes	Question	
+Q356_4	3 values : Yes|NA|No	Question	
+Q356_5	3 values : Yes|No|NA	Question	
+Q358	4 values : Yes|No|In some departments only|NA	Question	

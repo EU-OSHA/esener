@@ -1,0 +1,66 @@
+Column	ColumnType	Value	Importance	NewValue
+Q200_1	Question	No	2	No
+Q200_1	Question	Yes	1	Yes
+Q200_2	Question	No	2	No
+Q200_2	Question	Yes	1	Yes
+Q200_3	Question	No	2	No
+Q200_3	Question	Yes	1	Yes
+Q200_4	Question	No	2	No
+Q200_4	Question	Yes	1	Yes
+Q200_5	Question	No	2	No
+Q200_5	Question	Yes	1	Yes
+Q200_6	Question	No	2	No
+Q200_6	Question	Yes	1	Yes
+Q200_7	Question	No	2	No
+Q200_7	Question	Yes	1	Yes
+Q200_8	Question	No	2	No
+Q200_8	Question	Yes	1	Yes
+Q200_9	Question	No	2	No
+Q200_9	Question	Yes	1	Yes
+Q201_1	Question	No	2	No
+Q201_1	Question	Yes	1	Yes
+Q201_2	Question	No	2	No
+Q201_2	Question	Yes	1	Yes
+Q201_3	Question	No	2	No
+Q201_3	Question	Yes	1	Yes
+Q201_4	Question	No	2	No
+Q201_4	Question	Yes	1	Yes
+Q201_5	Question	No	2	No
+Q201_5	Question	Yes	1	Yes
+Q201_6	Question	No	2	No
+Q201_6	Question	Yes	1	Yes
+Q201_7	Question	No	2	No
+Q201_7	Question	Yes	1	Yes
+Q250	Question	No	2	No
+Q250	Question	Yes	1	Yes
+Q251	Question	Both about equally	3	Both about equally
+Q251	Question	Conducted mainly by internal staff	1	Conducted mainly by internal staff
+Q251	Question	Contracted mainly to external providers	2	Contracted mainly to external providers
+Q264_1	Question	Major reason	1	Major reason
+Q264_1	Question	Minor reason	2	Minor reason
+Q264_1	Question	Not a reason	3	Not a reason
+Q264_2	Question	Major reason	1	Major reason
+Q264_2	Question	Minor reason	2	Minor reason
+Q264_2	Question	Not a reason	3	Not a reason
+Q264_4	Question	Major reason	1	Major reason
+Q264_4	Question	Minor reason	2	Minor reason
+Q264_4	Question	Not a reason	3	Not a reason
+Q264_5	Question	Major reason	1	Major reason
+Q264_5	Question	Minor reason	2	Minor reason
+Q264_5	Question	Not a reason	3	Not a reason
+Q264_6	Question	Major reason	1	Major reason
+Q264_6	Question	Minor reason	2	Minor reason
+Q264_6	Question	Not a reason	3	Not a reason
+Q307	Question	No	2	No
+Q307	Question	Yes	1	Yes
+Sectorgrp	Subset	Agriculture	1	Agriculture
+Sectorgrp	Subset	Construction	2	Construction
+Sectorgrp	Subset	Education	7	Education
+Sectorgrp	Subset	IT	5	IT
+Sectorgrp	Subset	Manufacturing	3	Manufacturing
+Sectorgrp	Subset	Public administration	6	Public administration
+Sectorgrp	Subset	Trade	4	Trade
+Size	Subset	05-sep	1	5--9
+Size	Subset	oct-49	2	10--49
+Size	Subset	250+	4	250+
+Size	Subset	50-249	3	50-249
