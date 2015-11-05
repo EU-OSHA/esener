@@ -335,8 +335,8 @@ _Selector	country	XK	Kosovo v skladu z RVSZN 1244/99
 _Selector	country	EUCC	Države kandidatke za pristop k EU
 _Selector	country	EuropeanUnion	Evropska unija *
 _Selector	exportType	csv	Pokaži podatkovno tabelo
-_Selector	plot	crossCountry	4. Comparaciones nacionales
-_Selector	plot	euBars	2. GrÃ¡fico de barras de la UE
-_Selector	plot	heatMap	1. Mapa europeo
-_Selector	plot	inCountry	3. GrÃ¡fico de barras nacional
+_Selector	plot	crossCountry	4. Nacionalne primerjave
+_Selector	plot	euBars	2. Palični grafikon EU
+_Selector	plot	heatMap	1. Evropski zemljevid
+_Selector	plot	inCountry	3. Nacionalni palični grafikon
 _DVT	Link	Questionnaire	VPRAŠALNIK
